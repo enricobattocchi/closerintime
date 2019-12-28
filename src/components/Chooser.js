@@ -82,7 +82,7 @@ const Chooser = (props) => {
       `}
       render={data => (
         <EventsContext.Consumer>
-          {(eventi) => { return(<Fragment><Autocomplete
+          {(contesto) => { return(<Fragment><Autocomplete
             classes={{
               option: classes.option
             }}
@@ -108,7 +108,7 @@ const Chooser = (props) => {
                 }}
               />
             )}
-            onChange={(e, value) => eventi.selectEvents(value)}
+            onChange={(e, value) => contesto.selectEvents(value)}
           /></Fragment>)}}
         </EventsContext.Consumer>
       )}

@@ -20,6 +20,16 @@ theme.typography.h1 = {
   fontWeight: 400,
   fontSize: '2.5em'
 }
+theme.typography.h2 = {
+  fontFamily: [
+    'Fredoka One',
+    'Raleway',
+    'sans-serif',
+  ].join(','),
+  fontWeight: 400,
+  fontSize: '2em',
+  color: '#757575'
+}
 
 theme.typography.body1 = {
   fontFamily: [
@@ -46,5 +56,3 @@ export const wrapRootElement = ({ element }) => {
     </ThemeProvider>
   );
 }
-
-

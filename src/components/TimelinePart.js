@@ -28,7 +28,7 @@ const TimelinePart = (props) => {
   const classes = useStyles();
 
   return(<div className={classes.timelinepart}>
-    <Typography variant={"body1"} className={classes.label}>{props.grow} {props.unit}s</Typography>
+    <Typography variant={"body1"} className={classes.label}>{props.precisediff}</Typography>
   </div>)
 }
 

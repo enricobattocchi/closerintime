@@ -27,7 +27,7 @@ module.exports = {
         },
         queries: [
           {
-            statement: 'SELECT * FROM events',
+            statement: 'SELECT * FROM events ORDER BY year ASC',
             idFieldName: 'id',
             name: 'events'
           }

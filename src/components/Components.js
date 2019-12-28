@@ -1,5 +1,3 @@
-import React from "react"
-
 import EventAvailableOutlinedIcon from '@material-ui/icons/EventAvailableOutlined';
 import MusicNoteOutlinedIcon from '@material-ui/icons/MusicNoteOutlined';
 import AccountBalanceOutlinedIcon from '@material-ui/icons/AccountBalanceOutlined';

@@ -1,44 +1,26 @@
 import React from "react"
-import { StaticQuery } from "gatsby"
-
 import Layout from "../components/Layout"
 import SEO from "../components/SEO"
 import { Typography } from "@material-ui/core"
 import Chooser from "../components/Chooser"
 import { EventsProvider } from "../context/EventsContext"
+import { TitleProvider } from "../context/TitleContext"
 import Timeline from "../components/Timeline"
+import Sentence from "../components/Sentence"
 
 
-const IndexPage = () => {
+const IndexPage = () => (
+  <Layout>
 
-  return (
-    <StaticQuery query={graphql`
-      query{
-          allMysqlEvents(limit: 3,skip: 125) {
-          nodes {
-            mysqlId
-            name
-            plural
-            type
-            year
-            month
-            day
-            link
-          }
-        }
-      }
-    `}
-                 render={data => {
-                   return (<Layout>
-                     <SEO title="Home"/>
-                     <Typography variant={"h1"} align={"center"}> Pick two events </Typography>
-                     <EventsProvider>
-                       <Chooser/>
-                       <Timeline/>
-                     </EventsProvider>
-                   </Layout>)
-                 }}/>
-  )
-}
+    <TitleProvider>
+      <SEO/>
+      <Typography variant={"h2"} align={"center"}>Pick some events </Typography>
+      <EventsProvider>
+        <Chooser/>
+        <Timeline/>
+        <Sentence/>
+      </EventsProvider>
+    </TitleProvider>
+  </Layout>)
 
 export default IndexPage
