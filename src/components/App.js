@@ -12,7 +12,7 @@ const App = (props) => (
   <SEO/>
   <Typography variant={"h2"} align={"center"}>Pick some events</Typography>
   <EventsProvider>
-    <Chooser/>
+    <Chooser {...props}/>
     <Timeline/>
     <Sentence/>
   </EventsProvider>
