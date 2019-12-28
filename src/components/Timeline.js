@@ -25,12 +25,14 @@ const Timeline = () => {
       timeline: {
         display: 'flex',
         justifyContent: 'space-between',
-        marginTop: '150px'
+        marginTop: '150px',
+        marginBottom: '50px'
       },
       single: {
         display: 'flex',
         justifyContent: 'center',
-        marginTop: '150px'
+        marginTop: '150px',
+        marginBottom: '50px'
       },
     }
   ))

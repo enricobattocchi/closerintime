@@ -1,26 +1,16 @@
 import React from "react"
+import { Router } from "@reach/router"
 import Layout from "../components/Layout"
-import SEO from "../components/SEO"
-import { Typography } from "@material-ui/core"
-import Chooser from "../components/Chooser"
-import { EventsProvider } from "../context/EventsContext"
-import { TitleProvider } from "../context/TitleContext"
-import Timeline from "../components/Timeline"
-import Sentence from "../components/Sentence"
-
+import App from "../components/App"
 
 const IndexPage = () => (
   <Layout>
-
-    <TitleProvider>
-      <SEO/>
-      <Typography variant={"h2"} align={"center"}>Pick some events </Typography>
-      <EventsProvider>
-        <Chooser/>
-        <Timeline/>
-        <Sentence/>
-      </EventsProvider>
-    </TitleProvider>
+    <Router>
+      <App path=":id1/:id2/:id3" />
+      <App path=":id1/:id2" />
+      <App path=":id1" />
+      <App path="/"/>
+    </Router>
   </Layout>)
 
 export default IndexPage

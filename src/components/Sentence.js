@@ -16,7 +16,7 @@ const Sentence = () => {
 
 
               if (contesto.events.length === 0) {
-                testo = ' '
+                testo = ''
               }
               if (contesto.events.length === 1) {
                 testo = contesto.events[0].precisediff + " ago: <br/>" + contesto.events[0].name

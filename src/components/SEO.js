@@ -31,6 +31,7 @@ function SEO({ lang, meta }) {
       }}
       title={title.replace(/(<([^>]+)>)/ig,"")}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
+      defaultTitle={site.siteMetadata.title}
       meta={[
         {
           name: `description`,
