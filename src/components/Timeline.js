@@ -4,6 +4,7 @@ import Marker from "./Marker"
 import TimelinePart from "./TimelinePart"
 import { Box } from "@material-ui/core"
 import moment from "moment"
+import 'moment-precise-range-plugin';
 import makeStyles from "@material-ui/core/styles/makeStyles"
 
 const displayDate = (event) => {
@@ -37,41 +38,10 @@ const Timeline = () => {
   const classes = useStyles();
 
   return (<EventsContext.Consumer>
-      {(eventi) => {
-
-        let onlyYears = false;
-
-        const compareDates = (e1, e2) => {
-          if(e1.month && e1.day && e2.month && e2.day) {
-            const data1 = moment().utc().year(e1.year).month(e1.month).date(e1.day).hour(12).minute(0).seconds(0).millisecond(0);
-            const data2 = moment().utc().year(e2.year).month(e2.month).date(e2.day).hour(12).minute(0).seconds(0).millisecond(0);
-            if (data1.isBefore(data2)) return -1
-            if (data1.isAfter(data2)) return 1
-            return 0
-          } else {
-            onlyYears = true
-            const data1 = moment().utc().year(e1.year).hour(12).minute(0).seconds(0).millisecond(0)
-            const data2 = moment().utc().year(e2.year).hour(12).minute(0).seconds(0).millisecond(0)
-            if (data1.isBefore(data2)) return -1
-            if (data1.isAfter(data2)) return 1
-            return 0
-          }
-        }
-
-
-
-        const setOnlyYears = (event, index, array) => {
-          if(!event.month || !event.day) {
-            onlyYears = true
-          }
-        }
-
-        eventi.events.forEach(setOnlyYears);
-
-        const orderedEvents = eventi.events.sort(compareDates);
+      {(contesto) => {
 
         const calcDistance = (event, index, array) => {
-          if(onlyYears){
+          if(contesto.onlyYears){
             const date = moment().utc().year(event.year).hour(12).minute(0).seconds(0).millisecond(0);
             let date2;
             if(index + 1 < array.length) {
@@ -82,6 +52,7 @@ const Timeline = () => {
             }
             event.diff = Math.abs(date.diff(date2, 'years'));
             event.unit = 'year';
+            event.precisediff = date.preciseDiff(date2);
           } else {
             const date = moment().utc().year(event.year).month(parseInt(event.month) - 1).date(event.day).hour(12).minute(0).seconds(0).millisecond(0);
             let date2;
@@ -93,15 +64,16 @@ const Timeline = () => {
             }
             event.diff = Math.abs(date.diff(date2, 'days'));
             event.unit = 'day';
+            event.precisediff = date.preciseDiff(date2);
           }
           event.order = index
           event.total = array.length
         }
 
-        orderedEvents.forEach(calcDistance)
+        contesto.events.forEach(calcDistance)
 
-        return(<Box className={(eventi.length > 0)?classes.timeline:classes.single}>
-          {orderedEvents.map(event =>
+        return(<Box className={(contesto.events.length > 0)?classes.timeline:classes.single}>
+          {contesto.events.map(event =>
             <Fragment key={event.mysqlId}>
               <Marker
                 event={event}
@@ -110,9 +82,9 @@ const Timeline = () => {
                 link={event.link}
                 year={event.year}
                 data={displayDate((event))}
-                onClick={() => eventi.deleteEvent(event)}
+                onClick={() => contesto.deleteEvent(event)}
               />
-              <TimelinePart grow={event.diff} unit={event.unit} order={event.order} total={event.total}/>
+              <TimelinePart grow={event.diff} precisediff={event.precisediff} unit={event.unit} order={event.order} total={event.total}/>
             </Fragment>
           )}
           <Marker
