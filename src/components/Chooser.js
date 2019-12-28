@@ -118,6 +118,7 @@ const Chooser = (props) => {
     }}
     className={classes.autocomplete}
     options={data.allMysqlEvents.nodes}
+    getOptionDisabled={ option => events.map(e => e.mysqlId).indexOf(option.mysqlId) !== -1 }
     disableClearable
     blurOnSelect
     getOptionLabel={option => ""}
