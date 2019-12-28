@@ -40,8 +40,8 @@ class EventsProvider extends React.Component {
     })
   }
 
-  selectEvents = (event) => {
-    let orderedEvents = [...this.state.events, event].sort(compareDates);
+  selectEvents = (...events) => {
+    let orderedEvents = [...this.state.events, ...events].sort(compareDates);
     let onlyYears = false
     orderedEvents.forEach((event, index, array) => {
       if(!event.month || !event.day) {

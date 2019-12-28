@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useContext } from "react"
 import PropTypes from "prop-types"
 import Helmet from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
@@ -21,15 +21,13 @@ function SEO({ lang, meta }) {
 
   const metaDescription = site.siteMetadata.description
 
-  return (
-    <TitleContext.Consumer>
-      {({title}) => {
+  const titleContext = useContext(TitleContext)
 
-    return(<Helmet
+      return(<Helmet
       htmlAttributes={{
         lang,
       }}
-      title={title.replace(/(<([^>]+)>)/ig,"")}
+      title={titleContext.title.replace(/(<([^>]+)>)/ig,"")}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
       defaultTitle={site.siteMetadata.title}
       meta={[
@@ -39,7 +37,7 @@ function SEO({ lang, meta }) {
         },
         {
           property: `og:title`,
-          content: title,
+          content: titleContext.title,
         },
         {
           property: `og:description`,
@@ -59,16 +57,14 @@ function SEO({ lang, meta }) {
         },
         {
           name: `twitter:title`,
-          content: title,
+          content: titleContext.title,
         },
         {
           name: `twitter:description`,
           content: metaDescription,
         },
       ].concat(meta)}
-    />)}}
-    </TitleContext.Consumer>
-  )
+    />)
 }
 
 SEO.defaultProps = {
