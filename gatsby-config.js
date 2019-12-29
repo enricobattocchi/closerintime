@@ -3,7 +3,8 @@ module.exports = {
     title: `#closerintime`,
     description: `Timespan comparisons between historical events.`,
     author: `@lopo`,
-    url: `https://gatsby.closerinti.me`
+    url: `https://gatsby.closerinti.me`,
+    app_id: `1012298692240693`
   },
   plugins: [
     `gatsby-plugin-material-ui`,
