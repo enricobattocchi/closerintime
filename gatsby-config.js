@@ -7,6 +7,17 @@ module.exports = {
     app_id: `1012298692240693`
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-gtag`,
+      options: {
+        // The property ID; the tracking code won't be generated without it
+        trackingId: "UA-13108600-3",
+        // Defines where to place the tracking script - `true` in the head and `false` in the body
+        head: true,
+        // Setting this parameter is optional
+        anonymize: true,
+      },
+    },
     `gatsby-plugin-material-ui`,
     `gatsby-plugin-react-helmet`,
     {
