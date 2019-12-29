@@ -51,7 +51,10 @@ const Sentence = () => {
 
   let testo = ""
   let sharingText = ""
-  let url = window.location.href
+  let url = site.siteMetadata.url
+  if( typeof window !== 'undefined' ) {
+    url = window.location.href
+  }
 
   if (eventsContext.events.length === 0) {
     testo = ""
@@ -81,14 +84,14 @@ const Sentence = () => {
     let evento3 = eventsContext.events[2]
 
     if (evento1.diff > evento3.diff) {
-      testo = "The time passed between " + evento1.name + " and " + evento2.name + " is longer than the time passed between " + evento3.name + " and us."
-      sharingText = "The time passed between " + evento1.name + " and " + evento2.name + " is longer than the time passed between " + evento3.name + " and us. #closerintime"
+      testo = "More time passed between " + evento1.name + " and " + evento2.name + " than between " + evento3.name + " and us."
+      sharingText = "More time passed between " + evento1.name + " and " + evento2.name + " than between " + evento3.name + " and us. #closerintime"
     } else if (evento1.diff < evento3.diff) {
-      testo = "The time passed between " + evento1.name + " and " + evento2.name + " is shorter than the time passed between " + evento3.name + " and us."
-      sharingText = "The time passed between " + evento1.name + " and " + evento2.name + " is shorter than the time passed between " + evento3.name + " and us. #closerintime"
+      testo = "More time passed between " + evento3.name + " and us than between " + evento1.name + " and " + evento2.name + "."
+      sharingText = "More time passed between " + evento3.name + " and us than between " + evento1.name + " and " + evento2.name + ". #closerintime"
     } else {
-      testo = "The time passed between " + evento1.name + " and " + evento2.name + " is the same passed between " + evento3.name + " and us."
-      sharingText = "The time passed between " + evento1.name + " and " + evento2.name + " is the same passed between " + evento3.name + " and us. #closerintime"
+      testo = "The same amount time passed between " + evento1.name + " and " + evento2.name + " as it did between " + evento3.name + " and us."
+      sharingText = "The same amount time passed between " + evento1.name + " and " + evento2.name + " as it did between " + evento3.name + " and us. #closerintime"
     }
   }
 
