@@ -13,6 +13,7 @@ function SEO({ lang, meta }) {
             title
             description
             author
+            url
           }
         }
       }
@@ -20,6 +21,7 @@ function SEO({ lang, meta }) {
   )
 
   const metaDescription = site.siteMetadata.description
+  const url = site.siteMetadata.url
 
   const titleContext = useContext(TitleContext)
 
@@ -37,7 +39,7 @@ function SEO({ lang, meta }) {
         },
         {
           property: `og:title`,
-          content: titleContext.title,
+          content: site.siteMetadata.title,
         },
         {
           property: `og:description`,
@@ -48,6 +50,21 @@ function SEO({ lang, meta }) {
           content: `website`,
         },
         {
+          property: `og:url`,
+          content: url,
+        },
+        {
+          property: `og:image`,
+          content: url+'/closerintime-sharing.png'
+        },
+        {
+          property: `og:image:width`,
+          content: '1200'
+        },        {
+          property: `og:image:height`,
+          content: '627'
+        },
+        {
           name: `twitter:card`,
           content: `summary`,
         },
@@ -56,12 +73,8 @@ function SEO({ lang, meta }) {
           content: site.siteMetadata.author,
         },
         {
-          name: `twitter:title`,
-          content: titleContext.title,
-        },
-        {
-          name: `twitter:description`,
-          content: metaDescription,
+          property: `twitter:image`,
+          content: url+'/closerintime-sharing.png'
         },
       ].concat(meta)}
     />)

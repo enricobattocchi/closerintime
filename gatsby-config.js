@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `#closerintime`,
-    description: ``,
+    description: `Timespan comparisons between historical events.`,
     author: `@lopo`,
+    url: `https://gatsby.closerinti.me`
   },
   plugins: [
     `gatsby-plugin-material-ui`,
