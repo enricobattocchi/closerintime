@@ -14,6 +14,7 @@ function SEO({ lang, meta }) {
             description
             author
             url
+            app_id
           }
         }
       }
@@ -60,9 +61,14 @@ function SEO({ lang, meta }) {
         {
           property: `og:image:width`,
           content: '1200'
-        },        {
+        },
+        {
           property: `og:image:height`,
           content: '627'
+        },
+        {
+          property: `fb:app_id`,
+          content: site.siteMetadata.app_id
         },
         {
           name: `twitter:card`,
