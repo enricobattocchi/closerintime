@@ -20,7 +20,7 @@ jobs:
     - name: npm install, build, and test
       run: |
         npm ci
-        npm build --if-present
+        gatsby build
       env:
         CI: true  
     - name: Deploy to server
