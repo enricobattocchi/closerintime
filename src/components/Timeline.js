@@ -27,6 +27,16 @@ const Timeline = () => {
         justifyContent: "space-between",
         marginTop: "150px",
         marginBottom: "50px",
+        padding: '0 7vw',
+        [theme.breakpoints.down('sm')]: {
+          padding: '0 12vw',
+        },
+        [theme.breakpoints.down('xs')]: {
+          flexDirection: 'column',
+          marginTop: '100px',
+          marginLeft: '20vw',
+          minHeight: '1000px'
+        }
       },
       single: {
         display: "flex",

@@ -17,22 +17,37 @@ const Marker = (props) => {
         flexGrow: '0',
         '&:hover': {
           zIndex: '100'
+        },
+        [theme.breakpoints.down('xs')]: {
+          flexDirection: 'row',
+          width: 'auto',
+          height: 0
         }
       },
       fab: {
-        height: '3vw',
-        width: '3vw'
+        height: '50px',
+        width: '50px',
+        minHeight: 'unset',
+        flex: '0 0 50px'
       },
       icona: {
-        height: '1.6vw',
-        width: '1.6vw'
+        height: '30px',
+        width: '30px',
       },
       paper:{
         fontWeight: 'bold',
         textDecoration: 'none',
         padding: '7px',
         marginTop: '5px',
-        width: '10vw'
+        width: '10vw',
+        [theme.breakpoints.down('sm')]: {
+          width: '20vw',
+        },
+        [theme.breakpoints.down('xs')]: {
+          marginTop: '0',
+          marginLeft: '5px',
+          width: '50vw',
+        }
       },
       title:{
         fontWeight: 'bold',

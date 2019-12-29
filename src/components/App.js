@@ -7,7 +7,7 @@ import { TitleProvider } from "../context/TitleContext"
 import Timeline from "../components/Timeline"
 import Sentence from "../components/Sentence"
 import HelpOutlineIcon from '@material-ui/icons/HelpOutline';
-import Button from '@material-ui/core/Button';
+import IconButton from '@material-ui/core/IconButton';
 import HelpDialog from "./HelpDialog"
 
 const App = (props) => {
@@ -24,7 +24,7 @@ const App = (props) => {
   return (
     <TitleProvider>
       <SEO/>
-      <Typography variant={"h2"} align={"center"}>Pick some events <Button onClick={handleClickOpen}><HelpOutlineIcon/></Button></Typography>
+      <Typography variant={"h2"} align={"center"}>Pick some events <IconButton onClick={handleClickOpen}><HelpOutlineIcon/></IconButton></Typography>
       <HelpDialog open={open} close={handleClose}/>
       <EventsProvider>
         <Chooser {...props}/>
