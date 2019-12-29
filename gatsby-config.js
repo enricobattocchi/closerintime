@@ -23,8 +23,8 @@ module.exports = {
       options: {
         connectionDetails: {
           host: 'localhost',
-          user: 'root',
-          password: '***REMOVED***',
+          user: 'closerintime',
+          password: 'closerintime',
           database: 'closerintime'
         },
         queries: [
