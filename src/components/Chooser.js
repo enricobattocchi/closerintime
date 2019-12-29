@@ -28,13 +28,24 @@ const Chooser = (props) => {
       autocomplete: {
         maxWidth: "600px",
         margin: "0 auto",
+        padding: '0 30px'
       },
-      option: {
+      options: {
         //fontSize: '0.8rem',
         margin: "0",
+        padding: '6px 0',
+        display: 'flex'
       },
-      span: {
-        marginLeft: "5px",
+      date:{
+        textAlign: 'right',
+        width: '80px',
+        flex: '0 0 80px'
+      },
+      icona: {
+        flex: '0 0 15px',
+        padding: '0 5px'
+      },
+      name: {
         "&:first-letter": {
           textTransform: "uppercase",
         },
@@ -114,7 +125,7 @@ const Chooser = (props) => {
 
   return (<Fragment><Autocomplete
     classes={{
-      option: classes.option,
+      option: classes.options,
     }}
     className={classes.autocomplete}
     options={data.allMysqlEvents.nodes}
@@ -123,16 +134,17 @@ const Chooser = (props) => {
     blurOnSelect
     getOptionLabel={option => ""}
     renderOption={option => (
-      <React.Fragment>
-        {getIcon(option.type)} <span
-        className={classes.span}><strong>{option.name}</strong> - {(option.year > 0) ? option.year : Math.abs(option.year) + " B.C."}</span>
-      </React.Fragment>
+      <Fragment>
+        <div className={classes.date}>{(option.year > 0) ? option.year : Math.abs(option.year) + " B.C."}</div>
+        <div className={classes.icona}>{getIcon(option.type)}</div>
+        <div className={classes.name}><strong>{option.name}</strong></div>
+      </Fragment>
     )
     }
     renderInput={params => (
       <TextField
         {...params}
-        label="Lookup an event or add your own"
+        label="Lookup an event"
         fullWidth
         inputProps={{
           ...params.inputProps,

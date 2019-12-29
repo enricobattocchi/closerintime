@@ -10,17 +10,37 @@ const TimelinePart = (props) => {
         position: 'relative',
         textAlign: 'center',
         zIndex: '-100',
+        display: 'flex',
+        justifyContent: 'center',
+        flexGrow: props.grow,
         //transition: "flex-grow 1.5s ease-in-out,border-color 1s ease-in-out,color 1s ease-in-out",
         borderBottom: 'solid 6px',
         borderBottomColor: 'hsl('+(115+360*props.order/props.total) +', 65%, 50%)',
         height: '0',
-        flexGrow: props.grow,
-        top: 'calc(1.5vw - 3px)'
+        top: '22px',
+        [theme.breakpoints.down('xs')]: {
+          border: '0',
+          borderLeft: 'solid 6px',
+          borderLeftColor: 'hsl('+(115+360*props.order/props.total) +', 65%, 50%)',
+          height: 'unset',
+          width: '20vw',
+          top: 'unset',
+          left: '22px',
+          flexDirection: 'row',
+          alignItems: 'center',
+          justifyContent: 'flex-end'
+        },
       },
       label: {
         position: 'relative',
-        top: '-30px',
+        top: '-35px',
         color: 'hsl('+(115+360*props.order/props.total) +', 65%, 50%)',
+        [theme.breakpoints.down('xs')]: {
+          top: '0',
+          right: '25vw',
+          width: '20vw',
+          textAlign: 'right'
+        }
       }
     }
   ))

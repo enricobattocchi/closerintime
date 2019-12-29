@@ -15,6 +15,9 @@ const ucfirst = (string) => string[0].toUpperCase() + string.slice(1)
 const Sentence = () => {
 
   const useStyles = makeStyles(theme => ( {
+    sentence: {
+      fontSize: '1.8em',
+    },
     sharing: {
       fontFamily: 'Raleway,sans-serif',
       display: 'flex',
@@ -25,7 +28,8 @@ const Sentence = () => {
     },
     button: {
       fontFamily: theme.typography.body1.fontFamily,
-      fontWeight: 'bold'
+      fontWeight: 'bold',
+      textTransform: 'none'
     }
   }))
 
@@ -132,7 +136,7 @@ const Sentence = () => {
 
 
   return (<Fragment>
-    <Typography variant={"h1"} align={"center"} dangerouslySetInnerHTML={{ __html: testo }}></Typography>
+    <Typography className={classes.sentence} variant={"h1"} align={"center"} dangerouslySetInnerHTML={{ __html: testo }}></Typography>
     {(sharingText) &&
     <Box className={classes.sharing} >
       <Button

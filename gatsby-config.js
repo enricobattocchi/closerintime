@@ -3,7 +3,7 @@ module.exports = {
     title: `#closerintime`,
     description: `Timespan comparisons between historical events.`,
     author: `@lopo`,
-    url: `https://gatsby.closerinti.me`,
+    url: `https://closerinti.me`,
     app_id: `1012298692240693`
   },
   plugins: [
@@ -69,6 +69,17 @@ module.exports = {
       resolve: `gatsby-plugin-offline`,
       options: {
         precachePages: [`**/*`],
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-htaccess',
+      options: {
+        RewriteBase: '/',
+        https: true,
+        SymLinksIfOwnerMatch: true,
+        redirect: [
+          'RewriteRule ^([0-9]+/?){1,}$ /index.html [L]',
+        ],
       },
     },
   ],

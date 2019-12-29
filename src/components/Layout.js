@@ -30,7 +30,7 @@ const Layout = ({ children }) => {
         style={{
           margin: `0 auto`,
           maxWidth: 1200,
-          padding: `50px`,
+          padding: `50px 0`,
         }}>{children}</main>
       <footer>
       </footer>
