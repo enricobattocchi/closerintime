@@ -1,8 +1,8 @@
 {
   "name": "closerintime",
   "private": true,
-  "description": " Timespan comparisons between historical events",
-  "version": "1.0",
+  "description": "Timespan comparisons between historical events",
+  "version": "1.0.0",
   "author": "Enrico Battocchi <enrico.battocchi@gmail.com>",
   "dependencies": {
     "@material-ui/core": "^4.8.0",
