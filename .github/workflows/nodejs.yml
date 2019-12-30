@@ -7,22 +7,17 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        node-version: [12.x]
-
     steps:
     - uses: actions/checkout@v1
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v1
       with:
-        node-version: ${{ matrix.node-version }}
-    - name: npm install, build, and test
-      run: |
-        npm ci
-        gatsby build
-      env:
-        CI: true  
+        node-version: "12.x"
+    - name: npm install
+      run: npm install
+      # This triggers `gatsby build` script in "package.json"
+    - name: Gatsby build
+      run: npm run build
     - name: Deploy to server
       id: deploy
       uses: Pendect/action-rsyncer@v1.1.0
