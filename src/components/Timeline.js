@@ -84,7 +84,7 @@ const Timeline = () => {
   contesto.events.forEach(calcDistance)
 
   const updateHistory = (event) => {
-    let eventIds = contesto.events.filter(item => item.mysqlId !== event.mysqlId).map(item => parseInt(item.mysqlId)).sort((a, b) => a - b);
+    let eventIds = contesto.events.filter(item => item.id !== event.id).map(item => parseInt(item.id)).sort((a, b) => a - b);
     let stateObj = { ids : eventIds };
     let path = '/' + eventIds.join('/');
     window.history.pushState(stateObj, '', path);
@@ -92,7 +92,7 @@ const Timeline = () => {
 
   return (<Box className={(contesto.events.length > 0) ? classes.timeline : classes.single}>
     {contesto.events.map(event =>
-      <Fragment key={event.mysqlId}>
+      <Fragment key={event.id}>
         <Marker
           event={event}
           type={event.type}

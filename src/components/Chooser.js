@@ -18,7 +18,6 @@ import TagFacesOutlinedIcon from "@material-ui/icons/TagFacesOutlined"
 import PersonOutlinedIcon from "@material-ui/icons/PersonOutlined"
 import InboxOutlinedIcon from "@material-ui/icons/InboxOutlined"
 
-
 const Chooser = (props) => {
 
   let ids = [props.id1, props.id2, props.id3]
@@ -86,11 +85,11 @@ const Chooser = (props) => {
     }
   }
 
-  const { events, selectEvents } = useContext(EventsContext)
+  const { events, selectEvents, compareDates } = useContext(EventsContext)
 
   const onSelect = (e, value) => {
     selectEvents(value);
-    let eventIds = [...events,value].map(event => parseInt(event.mysqlId)).sort((a, b) => a - b);
+    let eventIds = [...events,value].map(event => parseInt(event.id)).sort((a, b) => a - b);
     let stateObj = { ids : eventIds };
     let path = '/' + eventIds.join('/');
     window.history.pushState(stateObj, '', path);
@@ -98,9 +97,9 @@ const Chooser = (props) => {
 
   const data = useStaticQuery(graphql`
       query{
-        allMysqlEvents {
+        allDataCsv {
           nodes {
-            mysqlId
+            id
             name
             plural
             type
@@ -115,8 +114,8 @@ const Chooser = (props) => {
 
   useEffect(() => {
     let newEvents = []
-    data.allMysqlEvents.nodes.forEach(event => {
-      if (ids.indexOf(String(event.mysqlId)) !== -1) {
+    data.allDataCsv.nodes.forEach(event => {
+      if (ids.indexOf(String(event.id)) !== -1) {
         newEvents.push(event)
       }
     })
@@ -128,8 +127,8 @@ const Chooser = (props) => {
       option: classes.options,
     }}
     className={classes.autocomplete}
-    options={data.allMysqlEvents.nodes}
-    getOptionDisabled={ option => events.map(e => e.mysqlId).indexOf(option.mysqlId) !== -1 }
+    options={data.allDataCsv.nodes.sort(compareDates)}
+    getOptionDisabled={ option => events.map(e => e.id).indexOf(option.id) !== -1 }
     disableClearable
     blurOnSelect
     getOptionLabel={option => ""}

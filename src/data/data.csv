@@ -1,0 +1,328 @@
+﻿id,name,year,month,day,type,enabled,plural,link,uuid,creation_ts,editing_ts
+1,the Black Death,1348,,,history,1,0,https://en.wikipedia.org/wiki/Black_Death,505e02d6-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+2,the Krakatoa eruption,1883,,,science,1,0,https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa,505e05a5-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+3,the sack of Costantinople by the crusaders,1204,4,12,history,1,0,https://en.wikipedia.org/wiki/Sack_of_Constantinople_(1204),505e0603-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+4,the arrival of Columbus to America,1492,10,12,history,1,0,https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus,505e0640-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+5,the Storming of the Bastille,1789,7,14,history,1,0,https://en.wikipedia.org/wiki/Storming_of_the_Bastille,505e0671-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+6,the Wright brothers' flight,1903,12,17,science,1,0,https://en.wikipedia.org/wiki/Wright_brothers,505e069f-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-06-04 04:34:30
+7,the launch of the Sputnik 1,1957,10,4,science,1,0,https://en.wikipedia.org/wiki/Sputnik_1,505e06d1-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+8,"the release of ""Sgt. Pepper"" by the Beatles",1967,6,1,music,1,0,https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band,505e0701-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+9,"the release of ""Nevermind"" by Nirvana",1991,9,24,music,1,0,https://en.wikipedia.org/wiki/Nevermind,505e07d2-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+10,"""Citizen Kane"" by Orson Welles",1941,,,film,1,0,https://en.wikipedia.org/wiki/Citizen_Kane,505e0812-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+11,"""Star Wars"" by George Lucas",1977,,,film,1,0,https://en.wikipedia.org/wiki/Star_Wars_(film),505e0843-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+12,the first cinema screening by the Lumières,1895,12,26,film,1,0,https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re,505e0878-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+13,the assassination of John F. Kennedy,1963,11,22,history,1,0,https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy,505e0a26-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+14,the assassination of Archduke Franz Ferdinand,1914,6,28,history,1,0,https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand_of_Austria,505e0a5a-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+15,"the release of ""Super Mario Bros.""",1985,,,computer,1,0,https://en.wikipedia.org/wiki/Super_Mario_Bros.,505e0a8a-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+16,"the release of ""The Sims""",2000,,,computer,1,0,https://en.wikipedia.org/wiki/The_Sims,505e0ab8-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+17,the 9/11 attacks,2001,9,11,history,1,1,https://en.wikipedia.org/wiki/9/11,505e0b1c-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+18,the fall of the Berlin Wall,1989,11,9,history,1,0,https://en.wikipedia.org/wiki/Berlin_Wall,505e0b4e-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+19,the construction of the Berlin Wall,1961,8,13,history,1,0,https://en.wikipedia.org/wiki/Berlin_Wall,505e0b7d-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+20,the dissolution of the Soviet Union,1991,12,26,history,1,0,https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union,505e0bab-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+21,"""Pretty Woman"" with Julia Roberts",1990,,,film,1,0,https://en.wikipedia.org/wiki/Pretty_Woman,505e0bda-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+22,"""Mary Poppins"" with Julie Andrews",1964,,,film,1,0,https://en.wikipedia.org/wiki/Mary_Poppins_(film),505e0d5a-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+23,"the setting of ""Back to the Future""",1955,11,5,film,1,0,https://en.wikipedia.org/wiki/Back_to_the_Future,505e0d8b-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+24,"the release of ""Back to the Future""",1985,,,film,1,0,https://en.wikipedia.org/wiki/Back_to_the_Future,505e0db5-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+25,the construction of the Empire State Building,1931,,,building,1,0,https://en.wikipedia.org/wiki/Empire_State_Building,505e0e10-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+26,the assassination of Abraham Lincoln,1865,4,14,history,1,0,https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln,505e0e40-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+27,the sinking of the Titanic,1912,4,15,history,1,0,https://en.wikipedia.org/wiki/Sinking_of_the_RMS_Titanic,505e0e6d-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+28,"the setting of ""Nineteen Eighty-Four""",1984,,,book,1,0,https://en.wikipedia.org/wiki/Nineteen_Eighty-Four,505e0e9c-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+29,"the release of ""Nineteen Eighty-Four""",1949,,,book,1,0,https://en.wikipedia.org/wiki/Nineteen_Eighty-Four,505e1011-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+30,the coronation of Queen Elizabeth II,1953,6,2,history,1,0,https://en.wikipedia.org/wiki/Coronation_of_Queen_Elizabeth_II,505e1041-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+31,the last murder by Jack the Ripper,1888,11,9,history,1,0,https://en.wikipedia.org/wiki/Jack_the_Ripper,505e106b-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+32,"""2001: A Space Odyssey"" by Stanley Kubrick",1968,4,2,film,1,0,https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_(film),505e1098-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2018-04-02 10:28:42
+33,"""Snow White and the Seven Dwarfs"" by Walt Disney",1937,,,film,1,0,https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(1937_film),505e10f5-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+34,"""Mona Lisa"" by Leonardo da Vinci",1506,,,art,1,0,https://en.wikipedia.org/wiki/Mona_Lisa,505e128b-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+35,the Spanish flu pandemic,1918,,,history,1,0,https://en.wikipedia.org/wiki/1918_flu_pandemic,505e12bf-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+36,"""Guernica"" by Picasso",1937,,,art,1,0,https://en.wikipedia.org/wiki/Guernica_(Picasso),505e12e9-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+37,"""On the Origin of Species"" by Charles Darwin",1859,11,24,science,1,0,https://en.wikipedia.org/wiki/On_the_Origin_of_Species,505e1314-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+38,"""The Prince"" by Niccolò Machiavelli",1513,,,book,1,0,https://en.wikipedia.org/wiki/The_Prince,505e1431-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+39,the first circumnavigation of the Earth,1522,,,history,1,0,https://en.wikipedia.org/wiki/Magellan-Elcano_circumnavigation,505e145f-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+40,the Sack of Rome by the Landsknechts,1527,5,6,history,1,0,https://en.wikipedia.org/wiki/Sack_of_Rome_(1527),505e148b-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+41,the dissolution of the Order of the Templars,1312,0,,history,1,0,https://en.wikipedia.org/wiki/Knights_Templar,505e17a0-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+42,the first electoral victory by Silvio Berlusconi,1994,3,27,history,1,0,"https://en.wikipedia.org/wiki/Italian_general_election,_1994",505e17ef-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+43,the first oil crisis,1973,,,history,1,0,https://en.wikipedia.org/wiki/1973_oil_crisis,505e1923-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+44,"the release of ""Led Zeppelin IV""",1971,11,8,music,1,0,https://en.wikipedia.org/wiki/Led_Zeppelin_IV,505e1969-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+45,"the ""Lambada"" craze in Europe",1989,,,music,1,0,https://en.wikipedia.org/wiki/Lambada_(song),505e1b22-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+46,"the release of ""Volare"" by Domenico Modugno",1958,,,music,1,0,https://en.wikipedia.org/wiki/Volare_(song),505e1b66-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+47,the end of the Eastern Roman Empire,1453,,,history,1,0,https://en.wikipedia.org/wiki/Fall_of_Constantinople,505e1c92-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+48,the assassination of John Lennon,1980,12,8,music,1,0,https://en.wikipedia.org/wiki/Death_of_John_Lennon,505e1dbf-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+49,the atomic bomb on Hiroshima,1945,8,6,history,1,0,https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki,505e1f72-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+50,the invasion of Poland by Nazi Germany,1939,9,1,history,1,0,https://en.wikipedia.org/wiki/Invasion_of_Poland,505e250d-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+51,the death of Joseph Stalin,1953,3,5,history,1,0,https://en.wikipedia.org/wiki/Joseph_Stalin,505e2551-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+52,the Bay of Pigs Invasion,1961,4,17,history,1,0,https://en.wikipedia.org/wiki/Bay_of_Pigs_Invasion,505e2580-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+53,the Great Wall Street Crash,1929,10,29,history,1,0,https://en.wikipedia.org/wiki/Wall_Street_Crash_of_1929,505e25cc-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+54,the release of Windows 95,1995,8,24,computer,1,0,https://en.wikipedia.org/wiki/Windows_95,505e25fd-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+55,the first email,1971,,,computer,1,0,https://en.wikipedia.org/wiki/Ray_Tomlinson,505e2629-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+56,the launch of the iPhone,2007,6,29,computer,1,0,https://en.wikipedia.org/wiki/IPhone,505e265e-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+57,the launch of iMac,1998,8,15,computer,1,0,https://en.wikipedia.org/wiki/IMac_G3,505e268f-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+58,the Chernobyl disaster,1986,4,26,history,1,0,https://en.wikipedia.org/wiki/Chernobyl_disaster,505e26bb-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+59,the Indian Ocean earthquake,2004,12,26,history,1,0,https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami,505e26e9-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+60,Hurricane Katrina,2005,8,29,history,1,0,https://en.wikipedia.org/wiki/Hurricane_Katrina,505e2716-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+61,the launch of the Euro,2002,1,1,history,1,0,https://en.wikipedia.org/wiki/Euro,505e2744-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+62,the launch of Facebook,2004,2,4,computer,1,0,https://en.wikipedia.org/wiki/Facebook,505e2776-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+63,the launch of YouTube,2005,2,14,computer,1,0,https://en.wikipedia.org/wiki/YouTube,505e2818-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+64,the launch of Twitter,2006,3,21,computer,1,0,https://en.wikipedia.org/wiki/Twitter,505e288c-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+65,the release of WordPress,2003,5,27,computer,1,0,https://en.wikipedia.org/wiki/WordPress,505e28d8-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+66,the release of Windows XP,2001,10,25,computer,1,0,https://en.wikipedia.org/wiki/Windows_XP,505e2923-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+67,the first Pentium CPU,1993,3,22,computer,1,0,https://en.wikipedia.org/wiki/P5_(microarchitecture),505e296f-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+68,the release of the ZX Spectrum,1982,4,23,computer,1,0,https://en.wikipedia.org/wiki/ZX_Spectrum,505e29b8-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+69,the release of the Commodore 64,1982,,,computer,1,0,https://en.wikipedia.org/wiki/Commodore_64,505e2a04-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+70,the release of Atari 2600,1977,9,11,computer,1,0,https://en.wikipedia.org/wiki/Atari_2600,505e2a51-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+71,the release of the Macintosh,1984,1,24,computer,1,0,https://en.wikipedia.org/wiki/Macintosh,505e2a99-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+72,the armistice of the Korean War,1953,7,27,history,1,0,https://en.wikipedia.org/wiki/Korean_Armistice_Agreement,505e2ae0-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+73,the first website,1990,12,20,computer,1,0,https://en.wikipedia.org/wiki/First_website_ever_made,505e2b29-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2018-02-14 16:05:46
+74,the launch of the iPod,2001,11,10,computer,1,0,https://en.wikipedia.org/wiki/IPod,505e2b73-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+75,Deep Blue's victory against Kasparov,1997,5,11,computer,1,0,https://en.wikipedia.org/wiki/Deep_Blue_versus_Garry_Kasparov,505e2bbc-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+76,the Gutenberg Bible,1453,,,book,1,0,https://en.wikipedia.org/wiki/Gutenberg_Bible,505e2c05-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+77,the Lisbon Earthquake,1755,11,1,history,1,0,https://en.wikipedia.org/wiki/1755_Lisbon_earthquake,505e2c4e-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+78,the Great Fire of London,1666,,,history,1,0,https://en.wikipedia.org/wiki/Great_Fire_of_London,505e2c99-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+79,the discovery of Uranus,1781,3,13,science,1,0,https://en.wikipedia.org/wiki/Uranus,505e2ce2-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+80,the discovery of Pluto,1930,2,18,science,1,0,https://en.wikipedia.org/wiki/Pluto,505e2d2a-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+81,the discovery of the first extrasolar planet,1989,,,science,1,0,https://en.wikipedia.org/wiki/HD_114762_b,505e2d70-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+82,the first man on the Moon,1969,7,21,science,1,0,https://en.wikipedia.org/wiki/Apollo_11,505e2db8-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+83,Kepler's Supernova,1604,10,8,science,1,0,https://en.wikipedia.org/wiki/Kepler%27s_Supernova,505e2dff-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+84,the execution of Giordano Bruno,1600,2,17,history,1,0,https://en.wikipedia.org/wiki/Giordano_Bruno,505e2e47-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+85,the general theory of relativity by Albert Einstein,1915,,,science,1,0,https://en.wikipedia.org/wiki/General_relativity,505e2e8e-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+86,the battle of Waterloo,1815,6,18,history,1,0,https://en.wikipedia.org/wiki/Battle_of_Waterloo,505e2ed8-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+87,Willem Janszoon's arrival to Australia,1606,,,history,1,0,https://en.wikipedia.org/wiki/Janszoon_voyage_of_1605%E2%80%9306,505e2f1e-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+88,Roald Amundsen's expedition to the South Pole,1911,12,14,science,1,0,https://en.wikipedia.org/wiki/Amundsen%27s_South_Pole_expedition,505e2f66-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+89,Cleopatra's death,-30,8,12,history,1,0,https://en.wikipedia.org/wiki/Cleopatra,505e2fb0-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+90,the Great Pyramid of Giza,-2560,,,building,1,0,https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza,505e2ff5-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+91,the end of the Western Roman Empire,476,,,history,1,0,https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire,505e303f-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+92,the Trojan War,-1180,,,history,1,0,https://en.wikipedia.org/wiki/Trojan_War,505e3088-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+93,the founding of Rome,-753,4,21,history,1,0,https://en.wikipedia.org/wiki/Founding_of_Rome,505e30ce-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+94,the coronation of Charlemagne,800,12,25,history,1,0,https://en.wikipedia.org/wiki/Charlemagne,505e30fd-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+95,the Battle of Marathon,-490,,,history,1,0,https://en.wikipedia.org/wiki/Battle_of_Marathon,505e312b-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+96,the Battle of Thermopylae,-480,,,history,1,0,https://en.wikipedia.org/wiki/Battle_of_Thermopylae,505e3158-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+97,the sack of Rome by the Visigoths,410,8,24,history,1,0,https://en.wikipedia.org/wiki/Sack_of_Rome_(410),505e3185-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+98,"""Clerks"" by Kevin Smith",1994,,,film,1,0,https://en.wikipedia.org/wiki/Clerks,505e31b2-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+99,"""Vertigo"" by Alfred Hitchcock",1958,,,film,1,0,https://en.wikipedia.org/wiki/Vertigo_(film),505e31e1-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+100,the theory of the Big Bang by Georges Lemaître,1927,,,science,1,0,https://en.wikipedia.org/wiki/Big_Bang,505e320e-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+101,"the release of ""Never Mind the Bollocks, Here's the Sex Pistols""",1977,10,28,music,1,0,"https://en.wikipedia.org/wiki/Never_Mind_the_Bollocks,_Here's_the_Sex_Pistols",505e323c-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+102,"the release of ""Kind of Blue"" by Miles Davis",1959,8,17,music,1,0,https://en.wikipedia.org/wiki/Kind_of_Blue,505e326e-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+103,"Dante's ""Divine Comedy""",1321,,,book,1,0,https://en.wikipedia.org/wiki/Divine_Comedy,505e329a-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+104,the death of William Shakespeare,1616,4,23,book,1,0,https://en.wikipedia.org/wiki/William_Shakespeare,505e32c7-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+105,the return of Marco Polo from Asia,1295,,,history,1,0,https://en.wikipedia.org/wiki/Marco_Polo,505e32f4-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+106,the first Olympic Games of the modern era,1896,4,6,sport,1,1,https://en.wikipedia.org/wiki/1896_Summer_Olympics,505e3322-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+107,the Tiananmen Square protests,1989,6,4,history,1,0,https://en.wikipedia.org/wiki/Tiananmen_Square_protests_of_1989,505e334e-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+108,the Prague Spring,1968,8,21,history,1,0,https://en.wikipedia.org/wiki/Prague_Spring,505e337c-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+109,the trial of Socrates,-399,,,history,1,0,https://en.wikipedia.org/wiki/Trial_of_Socrates,505e33aa-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+110,the death of Alexander the Great,-323,6,11,history,1,0,https://en.wikipedia.org/wiki/Alexander_the_Great,505e33d8-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+111,the King James Bible,1611,,,book,1,0,https://en.wikipedia.org/wiki/King_James_Version,505e3406-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+112,"the release of ""Pong""",1972,11,29,computer,1,0,https://en.wikipedia.org/wiki/Pong,505e3433-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+113,"the release of ""Pac-Man""",1980,5,22,computer,1,0,https://en.wikipedia.org/wiki/Pac-Man,505e3460-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+114,"""Titanic"" by James Cameron",1997,,,film,1,0,https://en.wikipedia.org/wiki/Titanic_(1997_film),505e348c-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+115,the first jazz record,1917,3,7,music,1,0,https://en.wikipedia.org/wiki/Original_Dixieland_Jass_Band,505e34b9-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-05-31 18:31:10
+116,the death of Robert Johnson,1938,8,11,music,1,0,https://en.wikipedia.org/wiki/Robert_Johnson,505e34e5-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+117,"""The Blues Brothers"" by John Landis",1980,,,film,1,0,https://en.wikipedia.org/wiki/The_Blues_Brothers_(film),505e3513-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+118,"the release of ""Rollin' Stone"" by Muddy Waters",1950,,,music,1,0,https://en.wikipedia.org/wiki/Rollin%27_Stone,505e3543-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+119,"""The Rite of Spring"" by Igor Stravinsky",1913,5,29,music,1,0,https://en.wikipedia.org/wiki/The_Rite_of_Spring,505e3572-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+120,the first railway journey,1804,2,21,science,1,0,https://en.wikipedia.org/wiki/Richard_Trevithick,505e359f-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+121,"""Rock Around the Clock"" by Bill Haley & His Comets",1954,5,20,music,1,0,https://en.wikipedia.org/wiki/Rock_Around_the_Clock,505e35cd-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+122,"the release of ""Thriller"" by Michael Jackson",1982,11,30,music,1,0,https://en.wikipedia.org/wiki/Thriller_(Michael_Jackson_album),505e35fc-f700-11e6-a7a0-0cc47a1f485c,2017-02-20 14:28:31,2017-02-20 14:28:31
+123,the birth of Dolly the sheep,1996,7,5,science,1,0,https://en.wikipedia.org/wiki/Dolly_(sheep),543993a2-3f37-409f-b79b-510226b22c42,2017-02-20 14:28:31,2017-02-20 18:31:04
+124,the March on Rome,1922,10,22,history,1,0,https://en.wikipedia.org/wiki/March_on_Rome,88142436-afa8-4391-90f0-a71155cc439b,2017-02-20 16:29:50,2017-02-20 18:31:12
+125,the Bolshevik Revolution,1917,11,7,history,1,0,https://en.wikipedia.org/wiki/October_Revolution,7022a124-f92d-11e6-a143-1866daec3694,2017-02-22 13:23:01,2017-02-22 13:33:43
+126,"""Nighthawks"" by Edward Hopper",1942,,,art,1,0,https://en.wikipedia.org/wiki/Nighthawks,d7011941-f939-11e6-a143-1866daec3694,2017-02-22 15:02:29,2017-02-22 15:02:29
+127,the assassination of Gandhi,1948,1,30,history,1,0,https://en.wikipedia.org/wiki/Mahatma_Gandhi,7a614896-f92d-11e6-a143-1866daec3694,2017-02-22 13:33:22,2017-02-22 13:34:00
+128,Nadia Comaneci's perfect ten,1976,7,18,sport,1,0,https://en.wikipedia.org/wiki/Nadia_Com%C4%83neci,63e88d27-f92e-11e6-a143-1866daec3694,2017-02-22 13:40:32,2017-02-22 14:21:12
+129,"the first episode of ""Teletubbies""",1997,3,31,pop culture,1,0,https://en.wikipedia.org/wiki/Teletubbies,5b129e87-f933-11e6-a143-1866daec3694,2017-02-22 14:00:46,2017-02-26 16:03:23
+130,the first underground railway,1863,,,history,1,0,https://en.wikipedia.org/wiki/Metropolitan_Railway,b7022f44-f935-11e6-a143-1866daec3694,2017-02-22 14:32:58,2017-02-22 14:33:29
+131,the first Academy Awards ceremony,1929,5,16,film,1,0,https://en.wikipedia.org/wiki/1st_Academy_Awards,5d80d45d-fa14-11e6-a143-1866daec3694,2017-02-23 17:06:45,2017-02-23 17:06:45
+132,Commodore Perry's arrival in Edo Bay,1853,7,8,history,1,0,https://en.wikipedia.org/wiki/Perry_Expedition,d47bc509-fa25-11e6-a143-1866daec3694,2017-02-23 19:11:46,2017-02-23 19:11:46
+133,the Hindenburg disaster,1937,5,6,history,1,0,https://en.wikipedia.org/wiki/Hindenburg_disaster,06abd8b2-fa26-11e6-a143-1866daec3694,2017-02-23 19:13:10,2017-02-23 19:13:10
+134,the destruction of Pompeii,79,8,24,history,1,0,https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79,6fed0001-fa26-11e6-a143-1866daec3694,2017-02-23 19:16:07,2017-02-23 19:16:07
+135,the eruption of Mount St. Helens,1980,5,18,science,1,0,https://en.wikipedia.org/wiki/1980_eruption_of_Mount_St._Helens,a0c5d1df-fa26-11e6-a143-1866daec3694,2017-02-23 19:17:29,2017-02-23 19:17:29
+136,"the first episode of ""The Muppet Show""",1976,9,5,pop culture,1,0,https://en.wikipedia.org/wiki/The_Muppet_Show,2c8c38a4-fa27-11e6-a143-1866daec3694,2017-02-23 19:21:23,2017-02-26 16:03:23
+137,"""Tron"" with Jeff Bridges",1982,,,film,1,0,https://en.wikipedia.org/wiki/Tron,c3ab3b8e-fa27-11e6-a143-1866daec3694,2017-02-23 19:25:37,2017-02-23 19:25:37
+138,"""The Matrix"" by the Wachowskis",1999,,,film,1,0,https://en.wikipedia.org/wiki/The_Matrix,de6b5145-fa27-11e6-a143-1866daec3694,2017-02-23 19:26:22,2017-02-23 19:26:22
+139,"""Toy Story"" by John Lasseter",1995,,,film,1,0,https://en.wikipedia.org/wiki/Toy_Story,6b844185-fa28-11e6-a143-1866daec3694,2017-02-23 19:30:19,2017-02-23 19:30:19
+140,"""Pulp Fiction"" by Quentin Tarantino",1994,,,film,1,0,https://en.wikipedia.org/wiki/Pulp_Fiction,b8273b52-fa28-11e6-a143-1866daec3694,2017-02-23 19:32:27,2017-02-23 19:32:27
+141,"""Enter the Dragon"" with Bruce Lee",1973,,,film,1,0,https://en.wikipedia.org/wiki/Bruce_Lee,03b06c9a-fa29-11e6-a143-1866daec3694,2017-02-23 19:34:34,2017-02-23 19:34:34
+142,the discovery of Lucy,1974,11,24,science,1,0,https://en.wikipedia.org/wiki/Lucy_(Australopithecus),62a3632e-fa29-11e6-a143-1866daec3694,2017-02-23 19:37:13,2017-02-23 19:37:13
+143,the discovery of Ötzi,1991,9,19,science,1,0,https://en.wikipedia.org/wiki/%C3%96tzi,8f4f05e8-fa29-11e6-a143-1866daec3694,2017-02-23 19:38:28,2017-02-23 19:38:28
+144,the USSR victory over USA in the Olympic basketball final,1972,9,9,sport,1,0,https://en.wikipedia.org/wiki/1972_Olympic_Men%27s_Basketball_Final,05386bc7-fa2b-11e6-a143-1866daec3694,2017-02-23 19:48:55,2017-02-23 20:01:57
+145,the NBA Dream Team winning the Olympic gold ,1992,8,8,sport,1,0,https://en.wikipedia.org/wiki/1992_United_States_men%27s_Olympic_basketball_team,65ee830c-fa2c-11e6-a143-1866daec3694,2017-02-23 19:58:47,2017-02-23 19:58:47
+146,the eruption of Mount Pinatubo,1991,6,15,science,1,0,https://en.wikipedia.org/wiki/Mount_Pinatubo,7e0ff5e7-fa2e-11e6-a143-1866daec3694,2017-02-23 20:13:47,2017-02-23 20:13:47
+147,the descent of the Trieste in the Mariana Trench,1960,1,23,science,1,0,https://en.wikipedia.org/wiki/Project_Nekton,c384453c-fa2f-11e6-a143-1866daec3694,2017-02-23 20:22:53,2017-02-23 20:22:53
+148,the end of the Vietnam War,1975,4,30,history,1,0,https://en.wikipedia.org/wiki/Vietnam_War,f3542655-fa6c-11e6-a143-1866daec3694,2017-02-24 03:40:52,2017-02-24 04:03:21
+149,"""The Starry Night"" by Vincent Van Gogh",1889,,,art,1,0,https://en.wikipedia.org/wiki/The_Starry_Night,c550c272-fa72-11e6-a143-1866daec3694,2017-02-24 03:49:34,2017-02-24 04:22:32
+150,Abebe Bikila's first Olympic gold medal in the marathon event,1960,9,10,sport,1,0,https://en.wikipedia.org/wiki/Abebe_Bikila,9517054f-fa72-11e6-a143-1866daec3694,2017-02-24 04:21:11,2017-02-24 04:21:11
+151,"""The Scream"" by Edvard Munch",1893,,,art,1,0,https://en.wikipedia.org/wiki/The_Scream,5730be75-a602-4a90-87dc-197c0db211b8,2017-02-24 19:15:22,2017-02-24 19:15:47
+152,the discovery of the DNA structure,1953,2,28,science,1,0,https://en.wikipedia.org/wiki/DNA,c1f632ed-faf2-11e6-a143-1866daec3694,2017-02-24 19:38:42,2018-02-02 19:26:08
+153,"""Campbell's Soup Cans"" by Andy Warhol",1962,,,art,1,0,https://en.wikipedia.org/wiki/Campbell%27s_Soup_Cans,ba216cc1-3744-415d-a27b-0d1ca9bc120e,2017-02-24 19:44:43,2017-02-24 19:45:06
+154,Magna Carta,1215,6,15,history,1,0,https://en.wikipedia.org/wiki/Magna_Carta,5644bcf4-44e1-432d-b1a8-d7da758b92ca,2017-02-25 07:17:14,2017-02-25 07:18:39
+155,the Great Schism,1054,,,history,1,0,https://en.wikipedia.org/wiki/East%E2%80%93West_Schism,5cc053b6-fb73-11e6-a143-1866daec3694,2017-02-25 10:59:17,2017-02-25 10:59:17
+156,the Battle of the Little Bighorn,1876,6,25,history,1,0,https://en.wikipedia.org/wiki/Battle_of_the_Little_Bighorn,ce3f9ac5-fb73-11e6-a143-1866daec3694,2017-02-25 11:02:28,2017-02-25 11:02:50
+157,"""And Then There Were None"" by Agatha Christie",1939,11,6,book,1,0,https://en.wikipedia.org/wiki/And_Then_There_Were_None,1739e625-fb74-11e6-a143-1866daec3694,2017-02-25 11:04:30,2017-02-25 11:04:30
+158,the first Tour de France,1903,,,sport,1,0,https://en.wikipedia.org/wiki/Tour_de_France,a2b166bf-fb74-11e6-a143-1866daec3694,2017-02-25 11:08:24,2017-02-25 11:08:24
+159,the first Nobel Prizes,1901,,,science,1,1,https://en.wikipedia.org/wiki/Nobel_Prize,e20abaad-fb75-11e6-a143-1866daec3694,2017-02-25 11:17:20,2017-02-25 11:17:20
+160,the First Council of Nicaea,325,,,history,1,0,https://en.wikipedia.org/wiki/First_Council_of_Nicaea,d5a46528-c060-48ef-a594-79356628ccb1,2017-02-25 13:51:44,2017-02-25 13:52:55
+161,the death of Joan of Arc,1431,5,30,history,1,0,https://en.wikipedia.org/wiki/Joan_of_Arc,33e09542-fbbe-11e6-a143-1866daec3694,2017-02-25 19:55:01,2017-02-25 19:55:01
+162,"""Critique of Pure Reason"" by Immanuel Kant",1781,,,book,1,0,https://en.wikipedia.org/wiki/Critique_of_Pure_Reason,1f078ab4-fbc2-11e6-a143-1866daec3694,2017-02-25 20:23:04,2017-02-25 20:23:04
+163,the Bloody Sunday in Derry,1972,1,30,history,1,0,https://en.wikipedia.org/wiki/Bloody_Sunday_(1972),7fb1f8b6-fbc2-11e6-a143-1866daec3694,2017-02-25 20:25:46,2017-02-25 20:25:46
+164,the Munich Putsch,1923,11,8,history,1,0,https://en.wikipedia.org/wiki/Beer_Hall_Putsch,ea8bcfd8-fc21-11e6-a143-1866daec3694,2017-02-26 07:48:48,2017-02-26 07:48:48
+165,the Treaty of Versailles,1919,6,28,history,1,0,https://en.wikipedia.org/wiki/Treaty_of_Versailles,007b4ddc-fc22-11e6-a143-1866daec3694,2017-02-26 07:49:24,2017-02-26 07:49:24
+166,the attack on Pearl Harbor,1941,12,7,history,1,0,https://en.wikipedia.org/wiki/Attack_on_Pearl_Harbor,1941c0d4-fc22-11e6-a143-1866daec3694,2017-02-26 07:50:06,2017-02-26 07:50:06
+167,the Civil Rights Act,1964,7,2,history,1,0,https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964,3546ea01-fc22-11e6-a143-1866daec3694,2017-02-26 07:50:53,2017-02-26 07:50:53
+168,the trial of Galileo Galilei,1633,6,22,science,1,0,https://en.wikipedia.org/wiki/Galileo_affair,1ffab8e7-fc23-11e6-a143-1866daec3694,2017-02-26 07:57:27,2017-02-26 07:57:27
+169,Copernicus' heliocentric theory,1543,,,science,1,0,https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium,6c530a0e-fc23-11e6-a143-1866daec3694,2017-02-26 07:59:35,2017-02-26 07:59:35
+170,the first photo,1826,,,science,1,0,https://en.wikipedia.org/wiki/View_from_the_Window_at_Le_Gras,c6db1d56-fc24-11e6-a143-1866daec3694,2017-02-26 08:09:16,2017-02-26 08:09:16
+171,the invention of the first computer by Charles Babbage,1837,,,computer,1,0,https://en.wikipedia.org/wiki/Analytical_Engine,b3bc0664-fc25-11e6-a143-1866daec3694,2017-02-26 08:15:54,2017-02-26 08:15:54
+172,the first computer program by Ada Lovelace,1842,,,computer,1,0,https://en.wikipedia.org/wiki/Ada_Lovelace,8945789a-fc26-11e6-a143-1866daec3694,2017-02-26 08:21:52,2017-02-26 08:21:52
+173,the construction of Eiffel Tower,1889,3,15,building,1,0,https://en.wikipedia.org/wiki/Eiffel_Tower,8d3ea083-fc2b-11e6-a143-1866daec3694,2017-02-26 08:57:46,2017-02-26 09:03:27
+174,the Haymarket massacre,1886,5,4,history,1,0,https://en.wikipedia.org/wiki/Haymarket_affair,f1c7b1dc-fc45-11e6-a143-1866daec3694,2017-02-26 12:06:42,2017-02-26 12:06:42
+175,"""Don Quixote"" by Miguel de Cervantes",1605,,,book,1,0,https://en.wikipedia.org/wiki/Don_Quixote,24df853b-fc49-11e6-a143-1866daec3694,2017-02-26 12:29:36,2017-02-26 12:29:36
+176,"""The Night Watch"" by Rembrandt",1642,,,art,1,0,https://en.wikipedia.org/wiki/The_Night_Watch,c73e25ac-fc4a-11e6-a143-1866daec3694,2017-02-26 12:41:18,2017-02-26 12:41:18
+177,"""The Calling of Saint Matthew"" by Caravaggio",1600,,,art,1,0,https://en.wikipedia.org/wiki/The_Calling_of_St_Matthew_(Caravaggio),460d271e-fc4b-11e6-a143-1866daec3694,2017-02-26 12:44:50,2017-02-26 12:44:50
+178,"""The Garden of Earthly Delights"" by Hieronymus Bosch",1510,,,art,1,0,https://en.wikipedia.org/wiki/The_Garden_of_Earthly_Delights,398b9ac9-fc4e-11e6-a143-1866daec3694,2017-02-26 13:05:58,2017-02-26 13:05:58
+179,the Pantheon in Rome,125,,,building,1,0,"https://en.wikipedia.org/wiki/Pantheon,_Rome",94e3869f-fc4f-11e6-a143-1866daec3694,2017-02-26 13:15:41,2017-02-26 13:15:41
+180,"the ""David"" by Michaelangelo",1504,,,art,1,0,https://en.wikipedia.org/wiki/David_(Michelangelo),ccc4d55d-fc4f-11e6-a143-1866daec3694,2017-02-26 13:17:14,2017-02-26 13:17:14
+181,the Taj Mahal,1653,,,building,1,0,https://en.wikipedia.org/wiki/Taj_Mahal,12b92171-fc51-11e6-a143-1866daec3694,2017-02-26 13:26:21,2017-02-26 13:26:21
+182,"""Dance"" by Henri Matisse",1910,,,art,1,0,https://en.wikipedia.org/wiki/Dance_(Matisse),5d9c2696-fc51-11e6-a143-1866daec3694,2017-02-26 13:28:27,2017-02-26 13:28:27
+183,the Parthenon,-438,,,building,1,0,https://en.wikipedia.org/wiki/Parthenon,83c5d069-fc51-11e6-a143-1866daec3694,2017-02-26 13:29:31,2017-02-26 13:29:31
+184,"""Figure with Meat"" by Francis Bacon",1954,,,art,1,0,https://en.wikipedia.org/wiki/Figure_with_Meat,2ad73628-fc52-11e6-a143-1866daec3694,2017-02-26 13:34:11,2017-02-26 13:34:11
+185,"""Nu couché"" by Amedeo Modigliani",1917,,,art,1,0,https://en.wikipedia.org/wiki/Nu_couch%C3%A9,53c5d238-fc52-11e6-a143-1866daec3694,2017-02-26 13:35:20,2017-02-26 13:35:20
+186,"""Crack is Wack"" by Keith Haring",1986,,,art,1,0,https://en.wikipedia.org/wiki/Keith_Haring,d50fe62c-fc52-11e6-a143-1866daec3694,2017-02-26 13:38:57,2017-02-26 13:38:57
+187,"""The Four Seasons"" by Antonio Vivaldi",1725,,,music,1,0,https://en.wikipedia.org/wiki/The_Four_Seasons_(Vivaldi),e2da4b58-fc53-11e6-a143-1866daec3694,2017-02-26 13:46:29,2017-02-26 13:46:29
+188,"""The Great Wave off Kanagawa"" by Hokusai",1830,,,art,1,0,https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa,48b960c5-fc54-11e6-a143-1866daec3694,2017-02-26 13:49:20,2017-02-26 13:49:20
+189,"""L'Origine du monde"" by Gustave Courbet",1866,,,art,1,0,https://en.wikipedia.org/wiki/L%27Origine_du_monde,6e6e3cc6-fc54-11e6-a143-1866daec3694,2017-02-26 13:50:24,2017-02-26 13:50:24
+190,"""Ulysses"" by James Joyce",1922,2,2,book,1,0,https://en.wikipedia.org/wiki/Ulysses_(novel),f4cb0180-fc54-11e6-a143-1866daec3694,2017-02-26 13:54:09,2017-02-26 13:54:09
+191,"""War and Peace"" by Leo Tolstoy",1869,,,book,1,0,https://en.wikipedia.org/wiki/War_and_Peace,6fd5bd81-fc55-11e6-a143-1866daec3694,2017-02-26 13:57:36,2017-02-26 13:57:36
+192,"""Doctor Zhivago"" by Boris Pasternak",1957,,,book,1,0,https://en.wikipedia.org/wiki/Doctor_Zhivago_(novel),946f3cb3-fc55-11e6-a143-1866daec3694,2017-02-26 13:58:37,2017-02-26 13:58:37
+193,"""The Lord of the Rings"" by J. R. R. Tolkien",1954,,,book,1,0,https://en.wikipedia.org/wiki/The_Lord_of_the_Rings,23e6b6eb-fc58-11e6-a143-1866daec3694,2017-02-26 14:16:57,2017-02-26 14:16:57
+194,"""Blade Runner"" by Ridley Scott",1982,,,film,1,0,https://en.wikipedia.org/wiki/Blade_Runner,69f3c40a-fc58-11e6-a143-1866daec3694,2017-02-26 14:18:54,2017-02-26 14:18:54
+195,"""No Logo"" by Naomi Klein",1999,,,book,1,0,https://en.wikipedia.org/wiki/No_Logo,7e3b2be9-fc58-11e6-a143-1866daec3694,2017-02-26 14:19:28,2017-02-26 14:19:28
+196,"""Guns, Germs and Steel"" by Jared Diamond",1997,,,book,1,0,"https://en.wikipedia.org/wiki/Guns,_Germs,_and_Steel",cb807d31-fc58-11e6-a143-1866daec3694,2017-02-26 14:21:38,2017-02-26 14:21:38
+197,"""The Interpretation of Dreams"" by Sigmund Freud",1899,,,book,1,0,https://en.wikipedia.org/wiki/The_Interpretation_of_Dreams,ed9fcf7d-fc58-11e6-a143-1866daec3694,2017-02-26 14:22:35,2017-02-26 14:22:35
+198,"""Being and Time"" by Martin Heidegger",1927,,,book,1,0,https://en.wikipedia.org/wiki/Being_and_Time,12c461f7-fc59-11e6-a143-1866daec3694,2017-02-26 14:23:37,2017-02-26 14:23:37
+199,"""Eichmann in Jerusalem"" by Hannah Arendt",1963,,,book,1,0,https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem,35f1f09e-fc59-11e6-a143-1866daec3694,2017-02-26 14:24:36,2017-02-26 14:24:36
+200,"""The Wealth of Nations"" by Adam Smith",1776,,,book,1,0,https://en.wikipedia.org/wiki/The_Wealth_of_Nations,58f80183-fc59-11e6-a143-1866daec3694,2017-02-26 14:25:35,2017-02-26 14:25:35
+201,"""An Essay on the Principle of Population"" by Thomas Malthus",1798,,,book,1,0,https://en.wikipedia.org/wiki/An_Essay_on_the_Principle_of_Population,7d12b234-fc59-11e6-a143-1866daec3694,2017-02-26 14:26:36,2017-02-26 14:26:36
+202,"""American Pastoral"" by Philip Roth",1997,,,book,1,0,https://en.wikipedia.org/wiki/American_Pastoral,9ebd471b-fc59-11e6-a143-1866daec3694,2017-02-26 14:27:32,2017-02-26 14:27:32
+203,"""Brave New World"" by Aldous Huxley",1932,,,book,1,0,https://en.wikipedia.org/wiki/Brave_New_World,c28262fb-fc59-11e6-a143-1866daec3694,2017-02-26 14:28:32,2017-02-26 14:28:32
+204,"""Harry Potter and the Philosopher's Stone"" by J. K. Rowling",1997,,,book,1,0,https://en.wikipedia.org/wiki/Harry_Potter_and_the_Philosopher%27s_Stone,d64a5378-fc59-11e6-a143-1866daec3694,2017-02-26 14:29:05,2017-02-26 14:29:05
+205,"""Infinite Jest"" by David Foster Wallace",1996,,,book,1,0,https://en.wikipedia.org/wiki/Infinite_Jest,fa044292-fc59-11e6-a143-1866daec3694,2017-02-26 14:30:05,2017-02-26 14:30:05
+206,"""Journey to the End of the Night"" by Louis-Ferdinand Céline",1932,,,book,1,0,https://en.wikipedia.org/wiki/Journey_to_the_End_of_the_Night,1909ae53-fc5a-11e6-a143-1866daec3694,2017-02-26 14:30:57,2017-02-26 14:30:57
+207,"""The Neverending Story"" by Michael Ende",1979,,,book,1,0,https://en.wikipedia.org/wiki/The_Neverending_Story,43e01695-fc5a-11e6-a143-1866daec3694,2017-02-26 14:32:09,2017-02-26 14:32:09
+208,"""Memoirs of Hadrian"" by Marguerite Yourcenar",1951,,,book,1,0,https://en.wikipedia.org/wiki/Memoirs_of_Hadrian,648fbaf4-fc5a-11e6-a143-1866daec3694,2017-02-26 14:33:04,2017-02-26 14:33:04
+209,"""The Second Sex"" by Simone de Beauvoir",1949,,,book,1,0,https://en.wikipedia.org/wiki/The_Second_Sex,7fa15bac-fc5a-11e6-a143-1866daec3694,2017-02-26 14:33:49,2017-02-26 16:29:06
+210,"""To Kill a Mockingbird"" by Harper Lee",1960,,,book,1,0,https://en.wikipedia.org/wiki/To_Kill_a_Mockingbird,825e26a8-9562-4c93-a6cd-b927ba7be3ca,2017-02-26 14:51:40,2017-02-26 16:29:42
+211,"""On the Road"" by Jack Kerouac",1957,,,book,1,0,https://en.wikipedia.org/wiki/On_the_Road,d1978026-6f38-4a07-9fe3-488ad1512cd6,2017-02-26 14:52:07,2017-02-26 16:30:13
+212,"""The Rocky Horror Picture Show""",1975,,,film,1,0,https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show,496d6a36-3cdc-4dc4-a8c9-215d9f9e47f6,2017-02-26 14:52:32,2017-02-26 16:31:08
+213,"""The History of the Decline and Fall of the Roman Empire"" by E. Gibbon",1776,,,book,1,0,https://en.wikipedia.org/wiki/The_History_of_the_Decline_and_Fall_of_the_Roman_Empire,c7eb4586-00f8-4211-b7b8-1ccac4085b8d,2017-02-26 14:53:07,2017-02-26 16:36:08
+214,"""I, Robot"" by Isaac Asimov",1950,,,book,1,0,"https://en.wikipedia.org/wiki/I,_Robot",2d026a80-5236-43ed-994d-05132a64863d,2017-02-26 14:53:47,2017-02-26 16:31:55
+215,"""The Great Gatsby"" by F. Scott Fitzgerald",1925,,,book,1,0,https://en.wikipedia.org/wiki/The_Great_Gatsby,0ef8fc36-4f02-415a-964b-c7f60cb8f2ee,2017-02-26 14:54:17,2017-02-26 16:32:44
+216,"4'33"" by John Cage",1952,,,music,1,0,https://en.wikipedia.org/wiki/4%E2%80%B233%E2%80%B3,a62c2e5b-57f6-4ea1-9383-c76735208585,2017-02-26 14:54:59,2017-02-26 17:55:18
+217,the first appearance of Batman,1939,,,pop culture,1,0,https://en.wikipedia.org/wiki/Batman,7484b9c9-3142-4cee-8f21-0b90221bac00,2017-02-26 15:13:13,2017-02-26 16:38:14
+218,"""Akira"" by Katsuhiro Otomo",1988,,,film,1,0,https://en.wikipedia.org/wiki/Akira_(1988_film),8e27275d-d1e0-4f4d-9b39-d7b581a3b966,2017-02-26 15:13:40,2017-02-26 16:38:49
+219,the first appearance of Astro Boy,1951,,,pop culture,1,0,https://en.wikipedia.org/wiki/Astro_Boy_(character),0e2a3cbe-e0aa-4563-bc3c-7c1fce965595,2017-02-26 15:13:54,2017-02-26 16:40:10
+220,the first appearance of The Yellow Kid,1895,2,18,pop culture,1,0,https://en.wikipedia.org/wiki/The_Yellow_Kid,1aa99dd7-3189-4110-b193-c87a59d6f388,2017-02-26 15:14:10,2017-02-26 16:41:57
+221,"the launch of ""Krazy Kat""",1913,10,28,pop culture,1,0,https://en.wikipedia.org/wiki/Krazy_Kat,c352a116-2a9e-497e-862c-9e8697313746,2017-02-26 15:14:32,2017-02-26 16:43:43
+222,"Orson Welles' radio broadcast of ""The War of the Worlds""",1938,10,30,pop culture,1,0,https://en.wikipedia.org/wiki/The_War_of_the_Worlds_(radio_drama),22464208-9958-4612-b164-e6aa5b43d37c,2017-02-26 15:14:52,2017-02-26 16:47:03
+223,"""For Whom the Bell Tolls"" by Ernest Hemingway",1940,,,book,1,0,https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls,510c1cb9-b467-4386-bcda-53365d0c2575,2017-02-26 15:15:37,2017-02-26 16:49:08
+224,"""Burning Chrome"" by William Gibson",1982,,,book,1,0,https://en.wikipedia.org/wiki/Burning_Chrome,d117bdd1-7775-42cc-bed8-fd247c661e9e,2017-02-26 15:16:19,2017-02-26 16:50:26
+225,"""Ubik"" by Philip K. Dick",1969,,,book,1,0,https://en.wikipedia.org/wiki/Ubik,51be2691-f9a3-41e6-b391-f61ff5ff5898,2017-02-26 15:16:30,2017-02-26 16:51:04
+226,"""I Am Legend"" by Richard Matheson",1954,,,book,1,0,https://en.wikipedia.org/wiki/I_Am_Legend_(novel),c02e6563-0ead-4ed5-adac-32c382eafd3d,2017-02-26 15:16:51,2017-02-26 16:51:52
+227,"""Night of the Living Dead"" by George A. Romero",1968,,,film,1,0,https://en.wikipedia.org/wiki/Night_of_the_Living_Dead,a0774628-514c-41ba-b154-dd5ea7bf695c,2017-02-26 15:17:08,2017-02-26 16:52:45
+228,"""Slaughterhouse-Five"" by Kurt Vonnegut",1969,,,book,1,0,https://en.wikipedia.org/wiki/Slaughterhouse-Five,e6c468af-17dc-4694-b397-d99ac77b5fb6,2017-02-26 15:18:33,2017-02-26 16:55:49
+229,"""American Psycho"" by Brett Easton Ellis",1991,,,book,1,0,https://en.wikipedia.org/wiki/American_Psycho,31bf9810-c20b-49d5-9a44-3df76faaafb1,2017-02-26 15:18:46,2017-02-26 16:55:05
+230,"""The New York Trilogy"" by Paul Auster",1987,,,book,1,0,https://en.wikipedia.org/wiki/The_New_York_Trilogy,fa087004-6bdc-4902-8a6c-a25b20c61d74,2017-02-26 15:19:10,2017-02-26 16:56:27
+231,"""What We Talk About When We Talk About Love"" by Raymond Carver",1982,,,book,1,0,https://en.wikipedia.org/wiki/What_We_Talk_About_When_We_Talk_About_Love,b70d6ebb-d83b-43ae-895a-f405aedbc5f6,2017-02-26 15:20:18,2017-02-26 16:57:24
+232,"""Breakfast at Tiffany's"" by Truman Capote",1958,,,book,1,0,https://en.wikipedia.org/wiki/Breakfast_at_Tiffany%27s_(novella),d1abe35f-f4b2-46d9-8cdc-24da7e9718f3,2017-02-26 15:20:44,2017-02-26 16:58:16
+233,"""La Dolce Vita"" by Federico Fellini",1960,,,film,1,0,https://en.wikipedia.org/wiki/La_Dolce_Vita,8f63f47e-fe9c-453c-9897-f790fe3e0930,2017-02-26 15:21:36,2017-02-26 17:01:54
+234,"""Last Tango in Paris"" by Bernardo Bertolucci",1972,,,film,1,0,https://en.wikipedia.org/wiki/Last_Tango_in_Paris,632ee3ec-bdbe-4ae8-9f5c-18765c53942a,2017-02-26 15:22:36,2017-02-26 17:03:05
+235,"the first episode of ""Doctor Who""",1963,11,23,pop culture,1,0,https://en.wikipedia.org/wiki/Doctor_Who,3fdc8698-8408-4e51-be2e-2149a17be907,2017-02-26 15:24:26,2017-02-26 17:03:58
+236,"the first episode of ""Star Trek""",1966,9,8,pop culture,1,0,https://en.wikipedia.org/wiki/Star_Trek,7b402ef5-2806-47f1-a100-bd73d17cc185,2017-02-26 15:24:38,2017-02-26 17:05:26
+237,the first jar of Nutella,1964,4,20,pop culture,1,0,https://en.wikipedia.org/wiki/Nutella,7e1a1023-7fa2-4019-8d8d-f482b92b62bc,2017-02-26 15:25:55,2017-02-26 17:06:42
+238,the launch of Coca-Cola,1886,5,8,pop culture,1,0,https://en.wikipedia.org/wiki/Coca-Cola,dae60d5c-9b1d-44b5-b567-b6abc5defa85,2017-02-26 15:26:07,2017-02-26 17:10:06
+239,the foundation of the Monte de Paschi di Siena bank,1472,,,history,1,0,https://en.wikipedia.org/wiki/Banca_Monte_dei_Paschi_di_Siena,cec4aa79-25d2-4855-a4be-550c6cb89526,2017-02-26 15:26:31,2017-02-26 17:12:27
+240,"""Candide, ou l'Optimisme"" by Voltaire",1759,,,book,1,0,https://en.wikipedia.org/wiki/Candide,a1f95203-0607-477e-a2e7-f14c2ea09dd8,2017-02-26 15:26:56,2017-02-26 17:13:03
+241,the first appearance of Spider-Man,1962,,,pop culture,1,0,https://en.wikipedia.org/wiki/Spider-Man,1dc05737-9c11-4860-8787-c2eaf4b138a7,2017-02-26 15:28:17,2017-02-26 17:13:47
+242,the launch of the Ford Model T,1908,,,history,1,0,https://en.wikipedia.org/wiki/Ford_Model_T,60cea0fd-4709-4a8a-9f3c-84cb162d1390,2017-02-26 15:42:26,2017-02-26 17:16:49
+243,the first appearance of Mickey Mouse,1928,11,18,pop culture,1,0,https://en.wikipedia.org/wiki/Steamboat_Willie,a04a2369-3d86-4bbc-91db-473307b23c87,2017-02-26 15:44:19,2017-02-26 17:18:14
+244,"""Silent Spring"" by Rachel Carson",1962,,,book,1,0,https://en.wikipedia.org/wiki/Silent_Spring,93a819db-fc6a-11e6-a143-1866daec3694,2017-02-26 16:28:55,2017-02-26 16:28:55
+245,"""The War of the Worlds"" by H. G. Wells",1898,,,book,1,0,https://en.wikipedia.org/wiki/The_War_of_the_Worlds,43573fe3-fc6d-11e6-a143-1866daec3694,2017-02-26 16:48:09,2017-02-26 16:48:09
+246,the first appearance of Superman,1938,,,pop culture,1,0,https://en.wikipedia.org/wiki/Superman,a2ecce44-fc71-11e6-a143-1866daec3694,2017-02-26 17:19:27,2017-02-26 17:19:27
+247,the first appearance of Wolverine,1974,,,pop culture,1,0,https://en.wikipedia.org/wiki/Wolverine_(character),2899f77a-fc72-11e6-a143-1866daec3694,2017-02-26 17:23:11,2017-02-26 17:23:11
+248,the first Lego bricks,1949,,,pop culture,1,1,https://en.wikipedia.org/wiki/Lego,173a9c65-fc74-11e6-a143-1866daec3694,2017-02-26 17:37:01,2017-02-26 18:14:09
+249,the first IKEA store,1958,,,pop culture,1,0,https://en.wikipedia.org/wiki/IKEA,8f9bd156-fc74-11e6-a143-1866daec3694,2017-02-26 17:40:23,2017-02-26 17:40:23
+250,the first blue jeans,1871,,,pop culture,1,1,https://en.wikipedia.org/wiki/Jeans,74f7bd57-fc75-11e6-a143-1866daec3694,2017-02-26 17:46:48,2017-02-26 17:46:48
+251,the Symphony No. 9 by Ludwig van Beethoven,1824,,,music,1,0,https://en.wikipedia.org/wiki/Symphony_No._9_(Beethoven),0158de69-fc76-11e6-a143-1866daec3694,2017-02-26 17:50:44,2017-02-26 17:50:44
+252,"the premiere of ""Cavalleria Rusticana"" by Pietro Mascagni",1890,5,17,music,1,0,https://en.wikipedia.org/wiki/Cavalleria_rusticana,61fab8d7-fc76-11e6-a143-1866daec3694,2017-02-26 17:53:26,2017-02-26 17:53:26
+253,"the premiere of ""The Nutcracker"" by P. I. Tchaikovsky",1892,12,18,music,1,0,https://en.wikipedia.org/wiki/The_Nutcracker,1e11cd5f-fc77-11e6-a143-1866daec3694,2017-02-26 17:58:41,2017-02-26 17:59:13
+254,"the first episode of ""Lost""",2004,9,22,pop culture,1,0,https://en.wikipedia.org/wiki/Lost_(TV_series),49cd538c-fc7d-11e6-a143-1866daec3694,2017-02-26 18:42:52,2017-02-26 18:42:52
+255,Jesse Owens' four Olympic gold medals,1936,,,sport,1,1,https://en.wikipedia.org/wiki/Jesse_Owens,f554f336-fc7d-11e6-a143-1866daec3694,2017-02-26 18:47:39,2017-02-26 18:48:55
+256,Carl Lewis' four Olympic gold medals,1984,,,sport,1,1,https://en.wikipedia.org/wiki/Carl_Lewis,1df776aa-fc7e-11e6-a143-1866daec3694,2017-02-26 18:48:48,2017-05-23 12:28:52
+257,the Ali vs Foreman match,1974,10,30,sport,1,0,https://en.wikipedia.org/wiki/The_Rumble_in_the_Jungle,93075512-fc7e-11e6-a143-1866daec3694,2017-02-26 18:52:04,2017-02-26 18:52:04
+258,Michael Phelps' eight Olympic gold medals,2008,,,sport,1,1,https://en.wikipedia.org/wiki/Michael_Phelps,bda9770d-fc7e-11e6-a143-1866daec3694,2017-02-26 18:53:15,2017-02-26 18:53:15
+259,Marco Pantani's wins of Giro and Tour in the same year,1998,,,sport,1,1,https://en.wikipedia.org/wiki/Marco_Pantani,74a0157e-fc7f-11e6-a143-1866daec3694,2017-02-26 18:58:22,2017-02-26 18:58:22
+260,"the Italy-West Germany ""Game of the Century""",1970,6,17,sport,1,0,https://en.wikipedia.org/wiki/Italy_v_West_Germany_(1970_FIFA_World_Cup),0436b7e0-fc80-11e6-a143-1866daec3694,2017-02-26 19:02:23,2017-02-26 19:02:23
+261,Steffi Graf's Golden Slam,1988,,,sport,1,0,https://en.wikipedia.org/wiki/Steffi_Graf,83a2e262-fc80-11e6-a143-1866daec3694,2017-02-26 19:05:57,2017-02-26 19:05:57
+262,Björn Borg's Wimbledon victory over John McEnroe,1980,7,5,sport,1,0,https://en.wikipedia.org/wiki/1980_Wimbledon_Championships_%E2%80%93_Men%27s_singles_final,e9a392cd-fc80-11e6-a143-1866daec3694,2017-02-26 19:08:48,2017-02-26 19:10:07
+263,Maradona's Goal of the Century,1986,6,22,sport,1,0,https://en.wikipedia.org/wiki/Argentina_v_England_(1986_FIFA_World_Cup),70f4f849-fc81-11e6-a143-1866daec3694,2017-02-26 19:12:35,2017-02-26 19:12:35
+264,Smith and Carlos' black fist salute,1968,10,16,sport,1,0,https://en.wikipedia.org/wiki/1968_Olympics_Black_Power_salute,e203ddc0-fc81-11e6-a143-1866daec3694,2017-02-26 19:15:45,2017-02-26 19:15:45
+265,the assassination of Martin Luther King Jr.,1968,4,4,history,1,0,https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.,d88c05cf-fcf7-11e6-a143-1866daec3694,2017-02-27 09:20:10,2017-02-27 09:20:10
+266,The Day the Music Died,1959,2,3,music,1,0,https://en.wikipedia.org/wiki/The_Day_the_Music_Died,0c8ee8b5-fcf8-11e6-a143-1866daec3694,2017-02-27 09:21:37,2017-02-27 09:21:37
+267,"""The Selfish Gene"" by Richard Dawkins",1976,,,book,1,0,https://en.wikipedia.org/wiki/The_Selfish_Gene,6b866cdd-fcf8-11e6-a143-1866daec3694,2017-02-27 09:24:16,2017-02-27 09:24:16
+268,"""The Grapes of Wrath"" by John Steinbeck",1939,,,book,1,0,https://en.wikipedia.org/wiki/The_Grapes_of_Wrath,97f59e75-fcf8-11e6-a143-1866daec3694,2017-02-27 09:25:31,2017-02-27 09:25:31
+269,"""Madame Bovary"" by Gustave Flaubert",1857,,,book,1,0,https://en.wikipedia.org/wiki/Madame_Bovary,c254462a-fcf8-11e6-a143-1866daec3694,2017-02-27 09:26:42,2017-02-27 09:26:42
+270,"""The Adventures of Pinocchio"" by Carlo Collodi",1883,,,book,1,0,https://en.wikipedia.org/wiki/The_Adventures_of_Pinocchio,e1ad2185-fcf8-11e6-a143-1866daec3694,2017-02-27 09:27:34,2017-02-27 09:27:34
+271,the fairy tales by the Grimm Brothers,1812,,,book,1,1,https://en.wikipedia.org/wiki/Grimms%27_Fairy_Tales,38b71f69-fcf9-11e6-a143-1866daec3694,2017-02-27 09:30:00,2017-02-27 09:30:00
+272,Pelé's first match,1956,9,7,sport,1,0,https://en.wikipedia.org/wiki/Pel%C3%A9,7b75e42e-fcf9-11e6-a143-1866daec3694,2017-02-27 09:31:52,2017-02-27 09:31:52
+273,Dorando Pietri's disqualification from the Olympic marathon,1908,7,24,sport,1,0,https://en.wikipedia.org/wiki/Dorando_Pietri,daaaaa39-fcf9-11e6-a143-1866daec3694,2017-02-27 09:34:32,2017-02-27 09:34:54
+274,the first appearance of Scrooge McDuck,1947,,,pop culture,1,0,https://en.wikipedia.org/wiki/Scrooge_McDuck,11413924-fcfa-11e6-a143-1866daec3694,2017-02-27 09:36:04,2017-02-27 09:36:04
+275,the first appearance of Donald Duck,1934,,,pop culture,1,0,https://en.wikipedia.org/wiki/Donald_Duck,2af53e4d-fcfa-11e6-a143-1866daec3694,2017-02-27 09:36:47,2017-02-27 09:36:47
+276,the collapse of the Tacoma Narrows Bridge,1940,11,7,building,1,0,https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_(1940),6cfb02ec-fcfa-11e6-a143-1866daec3694,2017-02-27 09:38:38,2017-02-27 09:38:38
+277,the D. B. Cooper hijacking,1971,11,24,pop culture,1,0,https://en.wikipedia.org/wiki/D._B._Cooper,8dce2422-fcfa-11e6-a143-1866daec3694,2017-02-27 09:39:33,2017-02-27 09:39:33
+278,"""À bout de souffle"" by Jean-Luc Godard",1960,,,film,1,0,https://en.wikipedia.org/wiki/Breathless_(1960_film),31e07997-fcfb-11e6-a143-1866daec3694,2017-02-27 09:44:08,2017-02-27 09:44:08
+279,"""Modern Times"" by Charlie Chaplin",1936,,,film,1,0,https://en.wikipedia.org/wiki/Modern_Times_(film),4fd2a4d1-fcfb-11e6-a143-1866daec3694,2017-02-27 09:44:58,2017-02-27 09:44:58
+280,"the first strip of ""Calvin and Hobbes""",1985,11,18,pop culture,1,0,https://en.wikipedia.org/wiki/Calvin_and_Hobbes,c27e5d00-fcfb-11e6-a143-1866daec3694,2017-02-27 09:48:11,2017-02-27 09:48:11
+281,"the first strip of ""Peanuts""",1950,10,2,pop culture,1,0,https://en.wikipedia.org/wiki/Peanuts,db1f62f6-fcfb-11e6-a143-1866daec3694,2017-02-27 09:48:52,2017-02-27 09:48:52
+282,"""The Name of the Rose"" by Umberto Eco",1980,,,book,1,0,https://en.wikipedia.org/wiki/The_Name_of_the_Rose,b5e018a1-fcfc-11e6-a143-1866daec3694,2017-02-27 09:54:59,2017-02-27 09:54:59
+283,"the first episode of ""Monty Python's Flying Circus""",1969,10,5,pop culture,1,0,https://en.wikipedia.org/wiki/Monty_Python%27s_Flying_Circus,dd7f8e83-fd03-11e6-a143-1866daec3694,2017-02-27 10:46:12,2017-02-27 10:46:12
+284,the Roswell UFO incident,1947,7,8,pop culture,1,0,https://en.wikipedia.org/wiki/Roswell_UFO_incident,d2642cee-fd04-11e6-a143-1866daec3694,2017-02-27 10:53:03,2017-02-27 10:53:03
+285,"the first episode of ""The Twilight Zone""",1959,10,2,pop culture,1,0,https://en.wikipedia.org/wiki/The_Twilight_Zone_(1959_TV_series),99006cae-fd05-11e6-a143-1866daec3694,2017-02-27 10:58:36,2017-02-27 10:58:36
+286,the discovery of Tutankhamun's tomb,1922,11,4,history,1,0,https://en.wikipedia.org/wiki/Tutankhamun,1a0f5d61-fd06-11e6-a143-1866daec3694,2017-02-27 11:02:13,2017-02-27 11:02:13
+287,the death of James Dean,1955,9,30,film,1,0,https://en.wikipedia.org/wiki/James_Dean,1e21708b-fd07-11e6-a143-1866daec3694,2017-02-27 11:09:29,2017-02-27 11:09:29
+288,the death of Princess Diana,1997,8,31,history,1,0,"https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales",83a7fead-fd07-11e6-a143-1866daec3694,2017-02-27 11:12:19,2017-02-27 11:12:19
+289,the Louvre Pyramid,1989,,,building,1,0,https://en.wikipedia.org/wiki/Louvre_Pyramid,cf192ae7-fd08-11e6-a143-1866daec3694,2017-02-27 11:21:35,2017-02-27 11:21:35
+290,the Treaty of Tordesillas,1494,6,7,history,1,0,https://en.wikipedia.org/wiki/Treaty_of_Tordesillas,0e7ecd04-fd0a-11e6-a143-1866daec3694,2017-02-27 11:30:31,2017-02-27 11:30:31
+291,the first volume of the Encyclopédie,1751,,,book,1,0,https://en.wikipedia.org/wiki/Encyclop%C3%A9die,9485de17-fd0a-11e6-a143-1866daec3694,2017-02-27 11:34:16,2017-02-27 11:34:16
+292,the launch of the Rubik's Cube,1980,,,pop culture,1,0,https://en.wikipedia.org/wiki/Rubik%27s_Cube,e0e359f3-fd0a-11e6-a143-1866daec3694,2017-02-27 11:36:24,2017-02-27 11:36:24
+293,the launch of the Tamagotchi,1996,11,23,pop culture,1,0,https://en.wikipedia.org/wiki/Tamagotchi,6e9c195f-fd0b-11e6-a143-1866daec3694,2017-02-27 11:40:22,2017-02-27 11:40:22
+294,the first 3-D color movie,1952,,,film,1,0,https://en.wikipedia.org/wiki/Bwana_Devil,4f82447b-fd0c-11e6-a143-1866daec3694,2017-02-27 11:46:39,2017-02-27 11:46:39
+295,the first Tom and Jerry short film,1940,,,film,1,0,https://en.wikipedia.org/wiki/Tom_and_Jerry,46a87ff7-fd0d-11e6-a143-1866daec3694,2017-02-27 11:53:34,2017-02-27 11:53:34
+296,the launch of the Voyager 1 probe,1977,9,5,science,1,0,https://en.wikipedia.org/wiki/Voyager_1,c341fd6c-fd0d-11e6-a143-1866daec3694,2017-02-27 11:57:03,2017-02-27 11:57:03
+297,the invention of the ballpoint pen,1931,,,pop culture,1,0,https://en.wikipedia.org/wiki/L%C3%A1szl%C3%B3_B%C3%ADr%C3%B3,557d7a6b-fd0e-11e6-a143-1866daec3694,2017-02-27 12:01:08,2017-02-27 12:01:08
+298,"the first use of the term ""Robot""",1920,,,pop culture,1,0,https://en.wikipedia.org/wiki/Robot,7c73cb42-fd0e-11e6-a143-1866daec3694,2017-02-27 12:02:14,2017-02-27 12:02:14
+299,the creation of Esperanto,1887,7,26,pop culture,1,0,https://en.wikipedia.org/wiki/Esperanto,bfffb5b6-fd0e-11e6-a143-1866daec3694,2017-02-27 12:04:07,2017-02-27 12:04:07
+300,the discovery of penicillin,1928,9,28,science,1,0,https://en.wikipedia.org/wiki/Penicillin,00db3e1a-fd0f-11e6-a143-1866daec3694,2017-02-27 12:05:56,2017-02-27 12:05:56
+301,the shutdown of FriendFeed,2015,4,9,computer,1,0,https://en.wikipedia.org/wiki/FriendFeed,8a1ed1ce-a513-49b1-87f7-79ad2e899f87,2017-02-27 12:45:47,2017-02-27 12:53:31
+302,the invention of basketball by James Naismith,1891,12,21,sport,1,0,https://en.wikipedia.org/wiki/Basketball,d7e65668-3266-4653-97c6-0b942d097aa6,2017-02-27 12:49:34,2017-02-27 15:50:05
+303,"""Codex Seraphinianus"" by Luigi Serafini",1981,,,book,1,0,https://en.wikipedia.org/wiki/Codex_Seraphinianus,96b3592b-70d7-4cfd-881e-89a531e5b00b,2017-02-28 03:36:28,2017-02-28 03:36:28
+304,"the release of ""Ok Computer"" by Radiohead",1997,,,music,1,0,https://en.wikipedia.org/wiki/OK_Computer,59a638ae-e2c5-47c7-9700-531484827eed,2017-03-16 21:35:18,2017-03-16 21:37:26
+305,"the first episode of ""Twin Peaks""",1990,4,8,pop culture,1,0,https://en.wikipedia.org/wiki/Twin_Peaks,0ca9dc80-c41c-4f81-99f8-8c57048c8bac,2017-04-09 18:13:51,2017-04-09 18:13:51
+306,the first TV appearance of The Simpsons,1987,4,19,pop culture,1,0,https://en.wikipedia.org/wiki/The_Simpsons,9339b5dc-24f3-11e7-bcc7-1866daec3694,2017-04-19 07:30:22,2017-04-19 07:30:22
+307,the death of Archimedes of Syracuse,-212,,,science,1,0,https://en.wikipedia.org/wiki/Archimedes,c97ada08-2741-11e7-bcc7-1866daec3694,2017-04-22 05:55:16,2017-04-22 05:55:16
+308,"the first episode of ""Happy Days""",1974,1,15,pop culture,1,0,https://en.wikipedia.org/wiki/Happy_Days,3eb71f33-2864-11e7-bcc7-1866daec3694,2017-04-23 16:34:27,2017-04-23 19:59:35
+309,the Battle of Cannae,-216,8,2,history,1,0,https://en.wikipedia.org/wiki/Battle_of_Cannae,4a6b70c4-2882-11e7-bcc7-1866daec3694,2017-04-23 20:09:31,2017-04-23 20:09:31
+310,Neuschwanstein Castle,1886,,,building,1,0,https://en.wikipedia.org/wiki/Neuschwanstein_Castle,762c462d-2998-11e7-bcc7-1866daec3694,2017-04-25 05:20:45,2017-04-25 05:20:45
+311,the death of Frederick Barbarossa,1190,6,10,history,1,0,"https://en.wikipedia.org/wiki/Frederick_I,_Holy_Roman_Emperor",7956257d-2999-11e7-bcc7-1866daec3694,2017-04-25 05:28:00,2017-04-25 05:28:00
+312,"""Fountain"" by Marcel Duchamp",1917,,,art,1,0,https://en.wikipedia.org/wiki/Fountain_(Duchamp),ea6776c3-3302-11e7-bcc7-1866daec3694,2017-05-07 04:55:27,2017-05-07 05:05:27
+313,the launch of Napster,1999,6,1,computer,1,0,https://en.wikipedia.org/wiki/Napster,8c755801-3709-11e7-bcc7-1866daec3694,2017-05-12 07:53:00,2017-05-12 07:53:00
+314,the opening of the Golden Gate Bridge,1937,5,27,building,1,0,https://en.wikipedia.org/wiki/Golden_Gate_Bridge,1e7766d0-4332-11e7-bb91-1866daec3694,2017-05-27 19:13:39,2017-05-27 19:14:57
+315,Montgolfier brothers' hot air balloon,1783,6,4,science,1,0,https://en.wikipedia.org/wiki/Montgolfier_brothers,04e8b4b7-4900-11e7-bb91-1866daec3694,2017-06-04 04:30:08,2017-06-04 04:32:17
+316,the introduction of the Julian Calendar,-45,1,1,science,1,0,https://en.wikipedia.org/wiki/Julian_calendar,082a8f9b-5761-11e7-bb91-1866daec3694,2017-06-22 11:39:51,2017-06-22 11:39:51
+317,the introduction of the Gregorian calendar,1582,10,15,science,1,0,https://en.wikipedia.org/wiki/Gregorian_calendar,4c70b9ac-5761-11e7-bb91-1866daec3694,2017-06-22 11:41:46,2017-06-22 11:41:46
+318,the assassination of Julius Caesar,-44,3,15,history,1,0,https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar,ed6f6697-5762-11e7-bb91-1866daec3694,2017-06-22 11:53:26,2017-06-22 11:53:26
+319,Michael Johnson's two Olympic gold medals,1996,,,sport,1,1,https://en.wikipedia.org/wiki/Athletics_at_the_1996_Summer_Olympics,c8ac33ac-6c61-11e7-a424-1866daec3694,2017-07-19 05:08:09,2017-07-19 05:10:16
+320,the release of Amiga 500,1987,4,1,computer,1,0,https://en.wikipedia.org/wiki/Amiga_500,aa9f6c14-7a0f-11e7-a424-1866daec3694,2017-08-05 14:55:36,2017-08-05 14:55:36
+321,the Warsaw Ghetto Uprising,1943,4,19,history,1,0,https://en.wikipedia.org/wiki/Warsaw_Ghetto_Uprising,bf8e5260-7abd-11e7-a424-1866daec3694,2017-08-06 11:41:43,2017-08-06 11:41:43
+322,the foundation of Göbekli Tepe,-9600,,,building,1,0,https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe,6db80694-a43b-11e7-a964-1866daec3694,2017-09-28 06:54:40,2017-09-28 06:55:58
+323,"""Le Voyage dans la Lune"" by Georges Méliès",1902,9,1,film,1,0,https://en.wikipedia.org/wiki/A_Trip_to_the_Moon,8bd4de0c-0f2a-11e8-95f4-1866daec3694,2018-02-11 07:53:24,2018-02-11 07:57:44
+324,the first man in outer space,1961,4,12,science,1,0,https://en.wikipedia.org/wiki/Vostok_1,a203e10d-0f2b-11e8-95f4-1866daec3694,2018-02-11 08:01:11,2018-02-11 08:01:11
+325,"the first episode of ""Friends""",1994,9,22,pop culture,1,0,https://en.wikipedia.org/wiki/Friends,72223996-d472-11e8-ab03-1866daec3694,2018-10-20 10:14:24,2018-10-20 10:14:24
+326,"the first episode of ""Seinfeld""",1989,7,5,pop culture,1,0,https://en.wikipedia.org/wiki/Seinfeld,bf3cc682-61d0-11e9-885e-1866daec3694,2019-04-18 07:54:40,2019-04-18 07:54:40
+327,"the first episode of ""Beverly Hills, 90210""",1990,10,4,pop culture,1,0,"https://en.wikipedia.org/wiki/Beverly_Hills,_90210",87f668dc-61d1-11e9-885e-1866daec3694,2019-04-18 08:00:16,2019-04-18 08:00:16

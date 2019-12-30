@@ -26,27 +26,14 @@ module.exports = {
         name: `images`,
         path: `${__dirname}/src/images`,
       },
+      options: {
+        name: `data`,
+        path: `${__dirname}/src/data/`,
+      },
     },
+    `gatsby-transformer-csv`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-source-mysql`,
-      options: {
-        connectionDetails: {
-          host: 'localhost',
-          user: 'closerintime',
-          password: 'closerintime',
-          database: 'closerintime'
-        },
-        queries: [
-          {
-            statement: 'SELECT * FROM events ORDER BY year ASC',
-            idFieldName: 'id',
-            name: 'events'
-          }
-        ]
-      }
-    },
     {
       resolve: `gatsby-plugin-prefetch-google-fonts`,
       options: {
