@@ -3,7 +3,7 @@ import { ThemeProvider } from '@material-ui/core/styles';
 import { createMuiTheme } from '@material-ui/core/styles';
 
 const palette = {
-  primary: { main: '#fa7921' },
+  primary: { main: '#f56505' },
   secondary: { main: '#ffffff' },
 };
 
@@ -45,7 +45,7 @@ theme.typography.body2 = {
     'sans-serif',
   ].join(','),
   fontWeight: 400,
-  color: theme.palette.primary.main
+  color: theme.palette.primary.dark
 }
 
 export default ({ element }) => {

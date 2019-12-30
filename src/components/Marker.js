@@ -69,12 +69,19 @@ const Marker = (props) => {
 
   const classes = useStyles();
 
+  const buttonAriaLabel = (props.onClick)? `Click to remove ${props.name} from the graph` : null;
+  const buttonAriaHidden = (props.onClick)? null : true;
+  const paperAriaLabel = (props.link)? `Click to read Wikipedia article about ${props.name}` : props.name
+  const paperTarget = (props.link)? '_blank' : null
+  const paperComponent = (props.link)? "a" : "div"
+
+
   return(
     <Box className={classes.box}>
-      <Fab color="primary" className={classes.fab} onClick={props.onClick}>
+      <Fab color="primary" className={classes.fab} onClick={props.onClick} aria-label={buttonAriaLabel} aria-hidden={buttonAriaHidden}>
         <CategoryIcon type={props.type} className={classes.icona} color="secondary"/>
       </Fab>
-      <Paper component={"a"} href={props.link} target={'_blank'} className={classes.paper}>
+      <Paper component={paperComponent} href={props.link} target={paperTarget} aria-label={paperAriaLabel} className={classes.paper}>
         <Typography variant={"body2"} className={classes.data} align={"center"}>{props.data}</Typography>
         <Typography variant={"body1"} className={classes.title} align={"center"}>{props.name}</Typography>
       </Paper>

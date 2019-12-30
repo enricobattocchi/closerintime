@@ -58,7 +58,7 @@ module.exports = {
         short_name: `#closerintime`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#fa7921`,
+        theme_color: `#f56505`,
         display: `standalone`,
         icon: `src/images/icon-512.png`, // This path is relative to the root of the site.
       },

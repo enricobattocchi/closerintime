@@ -24,7 +24,7 @@ const App = (props) => {
   return (
     <TitleProvider>
       <SEO/>
-      <Typography variant={"h2"} align={"center"}>Pick some events <IconButton onClick={handleClickOpen}><HelpOutlineIcon/></IconButton></Typography>
+      <Typography variant={"h2"} align={"center"}>Pick some events <IconButton aria-label={"Help"} onClick={handleClickOpen}><HelpOutlineIcon/></IconButton></Typography>
       <HelpDialog open={open} close={handleClose}/>
       <EventsProvider>
         <Chooser {...props}/>

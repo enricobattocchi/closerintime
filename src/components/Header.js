@@ -21,7 +21,7 @@ const Header = ({ siteTitle }) => {
     <AppBar color="primary" position={"sticky"}
     >
       <Toolbar className={classes.toolbar}>
-        <Typography variant="h1" color={"secondary"} align={"center"}>
+        <Typography variant="h1" align={"center"}>
           {siteTitle}
         </Typography>
       </Toolbar>
