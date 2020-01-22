@@ -70,7 +70,7 @@ const Sentence = () => {
   if (eventsContext.events.length === 2) {
     let evento1 = eventsContext.events[0]
     let evento2 = eventsContext.events[1]
-    let verb = evento2.plural ? " are " : " is "
+    let verb = parseInt(evento2.plural) ? " are " : " is "
     if (evento1.diff > evento2.diff) {
       testo = ucfirst(evento2.name) + verb + "closer in time to us than to " + evento1.name + "."
       sharingText = ucfirst(evento2.name) + verb + "#closerintime to us than to " + evento1.name + "."
