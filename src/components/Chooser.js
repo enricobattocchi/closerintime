@@ -37,8 +37,8 @@ const Chooser = (props) => {
       },
       date:{
         textAlign: 'right',
-        width: '80px',
-        flex: '0 0 80px'
+        width: '100px',
+        flex: '0 0 100px'
       },
       icona: {
         flex: '0 0 15px',
